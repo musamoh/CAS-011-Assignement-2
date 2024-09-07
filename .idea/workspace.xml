@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6a6305b-25f4-4e06-9f22-1dee84ba093d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.flake8" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Q3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="d6a6305b-25f4-4e06-9f22-1dee84ba093d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1725702202572</updated>
-      <workItem from="1725702203644" duration="905000" />
+      <workItem from="1725702203644" duration="973000" />
     </task>
     <servers />
   </component>
