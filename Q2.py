@@ -137,3 +137,12 @@ def shift_key(text: str) -> int:
 
 print(shift_key(newspaper_code))
 print(decrypt(newspaper_code, shift_key(newspaper_code)))
+
+"""
+OUTPUT:
+
+IM SELFISH IMPATIENT AND A LITTLE INSECURE I MAKE MISTAKES I AM OUT OF CONTROL
+ANDAT TIMES HARD TO HANDLE BUT IF YOU CANT HANDLE ME AT MY WORST THEN YOU SURE AS
+HELLDONT DESERE ME AT MY BEST MARILYN MONROE
+
+"""
