@@ -32,7 +32,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-7. Install space models
+7. Install spacy models
 
 ```
 pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
