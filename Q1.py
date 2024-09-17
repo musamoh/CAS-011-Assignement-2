@@ -79,7 +79,7 @@ def most_common_30_words():
         top_30_words = word_counts.most_common(30)
         # Store the top 30 words and their counts in a CSV file using pandas with columns "Word" and "Count"
         df = pd.DataFrame(top_30_words, columns=["Word", "Count"])
-        df.to_csv("top_30_words.csv", index=False)
+        df.to_csv("task_3_1_top_30_words.csv", index=False)
 
 
 def task_3_1():
@@ -90,12 +90,53 @@ def task_3_1():
 """
 3.2:
 Using the ‘Auto Tokenizer’ function in the ‘Transformers’ library, write a ‘function’ to count unique tokens in the text (.txt) and give the ‘Top 30’ words.
+
+"""
+
+
+def count_unique_tokens(file_path: str) -> None:
+    tokenizer = AutoTokenizer.from_pretrained(
+        "distilbert-base-uncased", clean_up_tokenization_spaces=True, use_fast=True
+    )
+
+    token_counts = Counter()
+    chunk_size = 512  # Adjust this value based on your system's memory
+
+    with open(file_path, "r", encoding="utf-8") as f:
+        while True:
+            text = f.read(chunk_size)
+            if not text:
+                break
+            tokens = tokenizer.tokenize(text)
+            token_counts.update(tokens)
+
+    top_30_tokens = token_counts.most_common(30)
+
+    df = pd.DataFrame(top_30_tokens, columns=["Token", "Count"])
+    df.to_csv("task_3_2_top_30_tokens.csv", index=False)
+
+
+def task_3_2():
+    file_path = "combined_text.txt"
+    count_unique_tokens(file_path)
+    print("Task 3.2 completed")
+
+
+"""
 Task 4: Named-Entity Recognition (NER)
 Extract the ‘diseases’, and ‘drugs’ entities in the ‘.txt file’ separately using ‘en_core_sci_sm’/’en_ner_bc5cdr_md’ and biobert. And compare the differences between the two models (Example: Total entities detected by both of them, what’s the difference, check for most common words, and check the difference.)
 
 """
 
 
+def extract_entities_spacy(text, nlp):
+    """Extract entities using spaCy."""
+    doc = nlp(text)
+    entities = [(ent.text, ent.label_) for ent in doc.ents]
+    return entities
+
+
 if __name__ == "__main__":
     task_1()
     task_3_1()
+    task_3_2()
