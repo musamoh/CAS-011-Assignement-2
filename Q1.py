@@ -131,12 +131,60 @@ Extract the ‘diseases’, and ‘drugs’ entities in the ‘.txt file’ sepa
 
 def extract_entities_spacy(text, nlp):
     """Extract entities using spaCy."""
-    doc = nlp(text)
-    entities = [(ent.text, ent.label_) for ent in doc.ents]
+    # Split text into chunks of 1,000,000 characters each
+    chunks = [text[i : i + 1000000] for i in range(0, len(text), 1000000)]
+
+    entities = []
+    for chunk in chunks:
+        doc = nlp(chunk)
+        entities.extend([(ent.text, ent.label_) for ent in doc.ents])
+
     return entities
 
 
+def task_4():
+    text_file = "combined_text.txt"
+    with open(text_file, "r") as file:
+        text = file.read()
+
+    nlp_sci, nlp_bc5cdr = download_spacy_models()
+
+    # Extract entities using spaCy models
+    entities_sci = extract_entities_spacy(text, nlp_sci)
+    entities_bc5cdr = extract_entities_spacy(text, nlp_bc5cdr)
+
+    # Extract entities using BioBERT model
+    entities_biobert = extract_entities_biobert(text)
+
+    # Compare the differences between the two models
+    common_entities_sci = set([ent[0] for ent in entities_sci])
+    common_entities_bc5cdr = set([ent[0] for ent in entities_bc5cdr])
+    common_entities_biobert = set([ent["word"] for ent in entities_biobert])
+
+    common_entities = common_entities_sci.intersection(
+        common_entities_bc5cdr, common_entities_biobert
+    )
+
+    print(f"Total entities detected by spaCy (en_core_sci_sm): {len(entities_sci)}")
+    print(
+        f"Total entities detected by spaCy (en_ner_bc5cdr_md): {len(entities_bc5cdr)}"
+    )
+    print(f"Total entities detected by BioBERT: {len(entities_biobert)}")
+    print(f"Common entities detected by all models: {len(common_entities)}")
+
+    print("Entities detected by spaCy (en_core_sci_sm):")
+    print(entities_sci)
+
+    print("Entities detected by spaCy (en_ner_bc5cdr_md):")
+    print(entities_bc5cdr)
+
+    print("Entities detected by BioBERT:")
+    print(entities_biobert)
+
+
 if __name__ == "__main__":
-    task_1()
-    task_3_1()
-    task_3_2()
+    # task_1()
+    # task_3_1()
+    # task_3_2()
+
+    task_4()

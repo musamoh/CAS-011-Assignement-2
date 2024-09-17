@@ -159,7 +159,8 @@ for i in range(5):
 if my_set is not None and my_dict["key4"] == 10:
     print("Condition met!")
 
-if 5 not in my_dict:
+# The condition should check if 5 is not in the values of the dictionary
+if 5 not in my_dict.values():
     print("5 not found in the dictionary!")
 
 print(global_variable)
