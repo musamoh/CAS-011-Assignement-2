@@ -1,4 +1,7 @@
 import pandas as pd
+from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
+from collections import Counter
+import spacy
 
 """
 Question 1
@@ -33,10 +36,58 @@ def task_1() -> None:
 Task 2: Research
 Install the libraries(SpaCy – scispaCy – ‘en_core_sci_sm’/’en_ner_bc5cdr_md’).
 Install the libraries (Transformers (Hugging Face) - and any bio-medical model (BioBert) that can detect drugs, diseases, etc from the text).
+
+"""
+
+
+def download_spacy_models():
+    """Load spaCy models for general biomedical text and disease/drug NER."""
+    nlp_sci = spacy.load("en_core_sci_sm")
+    nlp_bc5cdr = spacy.load("en_ner_bc5cdr_md")
+    return nlp_sci, nlp_bc5cdr
+
+
+def load_biobert_model():
+    """Load BioBERT model for biomedical NER."""
+    model_name = "dmis-lab/biobert-v1.1"
+    tokenizer = AutoTokenizer.from_pretrained(model_name)
+    model = AutoModelForTokenClassification.from_pretrained(model_name)
+    return pipeline("ner", model=model, tokenizer=tokenizer)
+
+
+def extract_entities_biobert(text):
+    """Extract entities using BioBERT."""
+    ner_pipeline = load_biobert_model()
+    return ner_pipeline(text)
+
+
+"""
 Task 3: Programming and Research
 3.1:
 Using any in-built library present in Python, count the occurrences of the words in the text (.txt) and give the ‘Top 30’ most common words.
 And store the ‘Top 30’ common words and their counts into a CSV file.
+
+"""
+
+
+def most_common_30_words():
+    """Count the occurrences of words in the text and return the top 30 most common words."""
+    with open("combined_text.txt", "r") as file:
+        text = file.read()
+        words = text.split()
+        word_counts = Counter(words)
+        top_30_words = word_counts.most_common(30)
+        # Store the top 30 words and their counts in a CSV file using pandas with columns "Word" and "Count"
+        df = pd.DataFrame(top_30_words, columns=["Word", "Count"])
+        df.to_csv("top_30_words.csv", index=False)
+
+
+def task_3_1():
+    most_common_30_words()
+    print("Task 3.1 completed")
+
+
+"""
 3.2:
 Using the ‘Auto Tokenizer’ function in the ‘Transformers’ library, write a ‘function’ to count unique tokens in the text (.txt) and give the ‘Top 30’ words.
 Task 4: Named-Entity Recognition (NER)
@@ -47,3 +98,4 @@ Extract the ‘diseases’, and ‘drugs’ entities in the ‘.txt file’ sepa
 
 if __name__ == "__main__":
     task_1()
+    task_3_1()
