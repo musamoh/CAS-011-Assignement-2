@@ -74,7 +74,9 @@ def convert_to_ascii(letters: str, numbers: str) -> str:
 word = "56aAww1984sktr235270aYmn145ss785fsq31D0"
 
 numbers, letters = seprate_long_string(word)
-print(convert_to_ascii(letters, numbers))
+print(f"Numbers: {numbers}")
+print(f"Letters: {letters}")
+print(f"Ascii values: {convert_to_ascii(letters, numbers)}")
 
 
 # Program to showcase the required output of the ecrypted newspaper code
@@ -135,7 +137,7 @@ def shift_key(text: str) -> int:
     return shift
 
 
-print(shift_key(newspaper_code))
+print(f"Shift key: {shift_key(newspaper_code)}")
 print(decrypt(newspaper_code, shift_key(newspaper_code)))
 
 """
