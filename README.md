@@ -1,5 +1,15 @@
 # CAS-011-Assignement-2
 
+# HIT 137
+
+# Group 103
+
+## Memebers:
+
+### Md Jabed
+
+### Mohammed Musa
+
 ## Initial Setup
 
 1. Clone the repository

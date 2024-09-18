@@ -1,0 +1,2897 @@
+Entity,Label,Count
+"(""Alzheimer's dementia"", 'DISEASE')",5
+"('myocardial infarctions', 'DISEASE')",2
+"('congestive heart failure', 'DISEASE')",11
+"('hypertension', 'DISEASE')",33
+"('dyslipidemia', 'DISEASE')",1
+"('left arm weakness', 'DISEASE')",2
+"('TIA', 'DISEASE')",6
+"('stroke', 'DISEASE')",16
+"('Lasix', 'CHEMICAL')",44
+"('oxygen', 'CHEMICAL')",46
+"('hypotensive', 'DISEASE')",18
+"('70s', 'CHEMICAL')",5
+"('Dopamine', 'CHEMICAL')",2
+"('congestive heart\nfailure', 'DISEASE')",1
+"('Coronary artery disease', 'DISEASE')",9
+"('Diabetes mellitus', 'DISEASE')",7
+"('Dyslipidemia', 'DISEASE')",4
+"('Congestive heart failure', 'DISEASE')",5
+"('Lisinopril', 'CHEMICAL')",22
+"('p.o', 'CHEMICAL')",63
+"('q.d', 'CHEMICAL')",47
+"('Imdur', 'CHEMICAL')",9
+"('Prilosec', 'CHEMICAL')",4
+"('Potassium chloride', 'CHEMICAL')",2
+"('Coreg', 'CHEMICAL')",6
+"('q.', 'DISEASE')",1
+"('Aspirin', 'CHEMICAL')",42
+"('Folate', 'CHEMICAL')",5
+"('Iodine', 'CHEMICAL')",2
+"('smoke', 'CHEMICAL')",4
+"('frothy', 'DISEASE')",1
+"('edema', 'DISEASE')",88
+"('sodium', 'CHEMICAL')",21
+"('potassium', 'CHEMICAL')",11
+"('chloride', 'CHEMICAL')",2
+"('bicarbonate', 'CHEMICAL')",10
+"('creatinine', 'CHEMICAL')",33
+"('glucose 124', 'CHEMICAL')",1
+"('bundle branch block', 'DISEASE')",2
+"('coronary artery disease', 'DISEASE')",10
+"('decompensated congestive heart failure', 'DISEASE')",1
+"('elevated systolic blood pressure', 'DISEASE')",1
+"('Captopril', 'CHEMICAL')",12
+"('Isordil', 'CHEMICAL')",5
+"('depressed', 'DISEASE')",14
+"('MR', 'DISEASE')",4
+"('t.i.d', 'CHEMICAL')",12
+"('Heparin', 'CHEMICAL')",30
+"('Lopressor', 'CHEMICAL')",8
+"('Levaquin', 'CHEMICAL')",4
+"('Flagyl', 'CHEMICAL')",11
+"('Decompensated congestive heart failure', 'DISEASE')",1
+"('Hypertension', 'DISEASE')",46
+"('ischemic cardiomyopathy', 'DISEASE')",1
+"('pulmonary edema', 'DISEASE')",28
+"('tachycardia', 'DISEASE')",16
+"('shortness of\nbreath,', 'DISEASE')",1
+"('100/50', 'CHEMICAL')",1
+"('fevers', 'DISEASE')",16
+"('Levofloxacin', 'CHEMICAL')",23
+"('Metronidazole', 'CHEMICAL')",4
+"('heart failure', 'DISEASE')",13
+"('proctitis', 'DISEASE')",3
+"('cholelithiasis', 'DISEASE')",2
+"('adenomyomatosis', 'DISEASE')",1
+"('ulcerative colitis', 'DISEASE')",2
+"('non-bleeding', 'DISEASE')",1
+"('pain', 'DISEASE')",194
+"('steroids', 'CHEMICAL')",31
+"('5-ASA enemas', 'CHEMICAL')",1
+"('Pulmonary edema', 'DISEASE')",2
+"('Hypercholesterolemia', 'DISEASE')",7
+"('Ulcerative colitis', 'DISEASE')",1
+"('Digoxin', 'CHEMICAL')",9
+"('Tylenol', 'CHEMICAL')",11
+"('Fosamax', 'CHEMICAL')",5
+"('Isosorbide Dinitrate', 'CHEMICAL')",1
+"('Furosemide', 'CHEMICAL')",22
+"('Miconazole', 'CHEMICAL')",1
+"('cream', 'CHEMICAL')",1
+"('sore', 'DISEASE')",1
+"('Methotrexate', 'CHEMICAL')",1
+"('rheumatoid arthritis', 'DISEASE')",1
+"('spondylitis', 'DISEASE')",8
+"('Florinef', 'CHEMICAL')",1
+"('vancomycin', 'CHEMICAL')",28
+"('left hip dislocation', 'DISEASE')",1
+"('Hypotensive', 'DISEASE')",3
+"('norepinephrine', 'CHEMICAL')",2
+"('PH', 'CHEMICAL')",1
+"('CO2', 'CHEMICAL')",40
+"('hydrocortisone', 'CHEMICAL')",3
+"('florinef', 'CHEMICAL')",2
+"('acute bleed', 'DISEASE')",1
+"('vecuronium', 'CHEMICAL')",2
+"('hepatic failure', 'DISEASE')",1
+"('VAP', 'DISEASE')",1
+"('necrosis', 'DISEASE')",3
+"('ulcer', 'DISEASE')",15
+"('GIB bleed', 'DISEASE')",1
+"('Psychiatric disorder', 'DISEASE')",1
+"('anxiety', 'DISEASE')",27
+"('bipolar', 'DISEASE')",1
+"('chronic pain', 'DISEASE')",1
+"(""Crohn's disease"", 'DISEASE')",2
+"('alcoholism', 'DISEASE')",1
+"('iron-deficiency anemia', 'DISEASE')",1
+"('Distal ileum resection [**2-/2160**]\nCCY [**2156**]\nR hip replacement [**2153**] c/b osteomyelitis', 'DISEASE')",1
+"('L hip replacement [**2156**] also c/b', 'CHEMICAL')",1
+"('osteomyelitis', 'DISEASE')",4
+"('colitis', 'DISEASE')",9
+"('stomach pain', 'DISEASE')",1
+"('O2', 'CHEMICAL')",33
+"('FiO2', 'CHEMICAL')",19
+"('MMM', 'DISEASE')",2
+"('organomegaly', 'DISEASE')",11
+"('GU', 'CHEMICAL')",4
+"('clubbing', 'DISEASE')",16
+"('cyanosis', 'DISEASE')",24
+"('chronic ulceration', 'DISEASE')",1
+"('lymphadenopathy', 'DISEASE')",18
+"('serous', 'DISEASE')",2
+"('erythema', 'DISEASE')",24
+"('swelling', 'DISEASE')",22
+"('tinea corporis', 'DISEASE')",2
+"('HCO3', 'CHEMICAL')",22
+"('Lipase-10', 'CHEMICAL')",1
+"('pO2', 'CHEMICAL')",6
+"('pH-7.35', 'CHEMICAL')",1
+"('Hct-28.7', 'CHEMICAL')",3
+"('PT-21.7', 'DISEASE')",1
+"('Na-140', 'CHEMICAL')",13
+"('pH-5.5', 'CHEMICAL')",2
+"('UCG-NEGATIVE\n[**2160-12-6**] 11:25PM', 'CHEMICAL')",1
+"('COAG', 'DISEASE')",4
+"('NO', 'CHEMICAL')",40
+"('C.difficile', 'DISEASE')",2
+"('Right pleural effusion', 'DISEASE')",2
+"('atelectasis', 'DISEASE')",24
+"('splenomegaly', 'DISEASE')",7
+"('Small stones', 'DISEASE')",1
+"('opacification', 'DISEASE')",5
+"('lower pole renal calculus', 'DISEASE')",1
+"('fracture', 'DISEASE')",60
+"('traumatic dislocation', 'DISEASE')",1
+"('intracranial hemorrhage', 'DISEASE')",3
+"('infarction', 'DISEASE')",14
+"('CSPINE', 'CHEMICAL')",1
+"('anterior subluxation', 'DISEASE')",1
+"('encroachment', 'DISEASE')",2
+"('subluxation', 'DISEASE')",3
+"('T3', 'CHEMICAL')",1
+"('ankylosis', 'DISEASE')",1
+"('spondyloarthropathy', 'DISEASE')",1
+"('Anterior subluxation', 'DISEASE')",1
+"('thrombus', 'DISEASE')",10
+"('liver disease', 'DISEASE')",11
+"('multiple infections', 'DISEASE')",1
+"('ankylosis spondylitis', 'DISEASE')",1
+"('primary metabolic acidosis', 'DISEASE')",2
+"('sepsis', 'DISEASE')",21
+"('respiratory acidosis', 'DISEASE')",2
+"('hyperventilation', 'DISEASE')",1
+"('acidosis', 'DISEASE')",2
+"('piperacillin/tazobactam', 'CHEMICAL')",1
+"('pneumonia', 'DISEASE')",47
+"('Respiratory failure', 'DISEASE')",4
+"('Hypotension', 'DISEASE')",5
+"('Pt', 'CHEMICAL')",50
+"('hypotension', 'DISEASE')",60
+"('captopril', 'CHEMICAL')",7
+"('hypertensive', 'DISEASE')",9
+"('cocaine', 'CHEMICAL')",5
+"('suicide ideation', 'DISEASE')",1
+"('ideation', 'DISEASE')",4
+"('depression', 'DISEASE')",23
+"('psychiatric', 'DISEASE')",4
+"('seroquel', 'CHEMICAL')",2
+"('Rhabdomyolysis', 'DISEASE')",1
+"('Creatinine', 'CHEMICAL')",6
+"('phosphate', 'CHEMICAL')",1
+"('Transaminitis', 'DISEASE')",2
+"('toxic ingestions', 'DISEASE')",1
+"('EtOH', 'CHEMICAL')",13
+"('APAP', 'CHEMICAL')",2
+"('dislocation', 'DISEASE')",3
+"('upper extremity DVT', 'DISEASE')",3
+"('heparin', 'CHEMICAL')",55
+"('lovenox', 'CHEMICAL')",3
+"('coumadin', 'CHEMICAL')",48
+"('warfarin', 'CHEMICAL')",20
+"('syncope', 'DISEASE')",16
+"('Diarrhea', 'DISEASE')",4
+"('diarrhea', 'DISEASE')",42
+"('flagyl', 'CHEMICAL')",16
+"('Tinea corporis', 'DISEASE')",2
+"('clotrimazole cream', 'CHEMICAL')",1
+"('Pain', 'DISEASE')",12
+"('dilaudid', 'CHEMICAL')",15
+"('levophed', 'CHEMICAL')",5
+"('lidoderm', 'CHEMICAL')",1
+"('ibuprofen', 'CHEMICAL')",5
+"('oxycodone', 'CHEMICAL')",13
+"('clonazepam', 'CHEMICAL')",1
+"('tizanidine', 'CHEMICAL')",2
+"('qhs', 'CHEMICAL')",19
+"('ranitidine', 'CHEMICAL')",1
+"('trazodone', 'CHEMICAL')",1
+"('gabapentin', 'CHEMICAL')",7
+"('fentanyl', 'CHEMICAL')",4
+"('ketoconazole', 'CHEMICAL')",2
+"('tramadol', 'CHEMICAL')",7
+"('lidocaine', 'CHEMICAL')",2
+"('clotrimazole', 'CHEMICAL')",3
+"('Q8H', 'CHEMICAL')",14
+"('ondansetron', 'CHEMICAL')",3
+"('nausea', 'DISEASE')",26
+"('Q6H', 'CHEMICAL')",59
+"('quetiapine', 'CHEMICAL')",2
+"('ranitidine HCl', 'CHEMICAL')",1
+"('loperamide', 'CHEMICAL')",2
+"('Overdose', 'DISEASE')",1
+"('Pneumonia', 'DISEASE')",5
+"('[**Hospital1 **] Condition', 'CHEMICAL')",2
+"('thinners', 'CHEMICAL')",2
+"('Allergies', 'DISEASE')",36
+"('DVT', 'DISEASE')",34
+"('CHF', 'DISEASE')",45
+"('HTN', 'DISEASE')",40
+"('dyspnea', 'DISEASE')",29
+"('CP', 'CHEMICAL')",12
+"('dizziness', 'DISEASE')",17
+"('chest pain', 'DISEASE')",92
+"('SOB', 'DISEASE')",15
+"('palpitations', 'DISEASE')",15
+"('convulsive', 'DISEASE')",1
+"('DM', 'CHEMICAL')",9
+"('OSA', 'DISEASE')",8
+"('GI bleed', 'DISEASE')",11
+"('gastritis', 'DISEASE')",9
+"('angina', 'DISEASE')",5
+"('low back pain', 'DISEASE')",3
+"('EtoH', 'CHEMICAL')",3
+"('NAD', 'CHEMICAL')",29
+"('OP', 'CHEMICAL')",17
+"('MCH-31.6', 'DISEASE')",1
+"('Amylase-39', 'CHEMICAL')",1
+"('VitB12', 'CHEMICAL')",3
+"('O2 sats', 'CHEMICAL')",5
+"('O2\n', 'CHEMICAL')",1
+"('ceftriaxone', 'CHEMICAL')",14
+"('nitro', 'CHEMICAL')",4
+"('hydralazine', 'CHEMICAL')",7
+"('lasix', 'CHEMICAL')",45
+"('SA dysfunction', 'DISEASE')",1
+"('azithromycin', 'CHEMICAL')",16
+"('levaquin', 'CHEMICAL')",5
+"('orthopnea', 'DISEASE')",7
+"('cough', 'DISEASE')",42
+"('O2 sat', 'CHEMICAL')",5
+"('ischemia', 'DISEASE')",17
+"('depressions', 'DISEASE')",6
+"('Coumadin', 'CHEMICAL')",8
+"('Anemia', 'DISEASE')",35
+"('iron', 'CHEMICAL')",50
+"('ferrous gluconate', 'CHEMICAL')",1
+"('Fall', 'CHEMICAL')",2
+"('pulmonary arterial hypertension', 'DISEASE')",1
+"('PE', 'CHEMICAL')",23
+"('neurontin', 'CHEMICAL')",1
+"('lisinopril', 'CHEMICAL')",29
+"('Timolol', 'CHEMICAL')",1
+"('Fluoxetine', 'CHEMICAL')",2
+"('Atenolol', 'CHEMICAL')",7
+"('Gabapentin', 'CHEMICAL')",2
+"('Pantoprazole Sodium', 'CHEMICAL')",6
+"('Timolol Maleate', 'CHEMICAL')",1
+"('Fluoxetine HCl', 'CHEMICAL')",1
+"('QD', 'CHEMICAL')",5
+"('Disp:*6 Tablet(s', 'CHEMICAL')",1
+"('Clindamycin HCl', 'CHEMICAL')",1
+"('Tablet(s', 'CHEMICAL')",40
+"('Warfarin Sodium', 'CHEMICAL')",3
+"('Metoprolol Tartrate', 'CHEMICAL')",19
+"('Ferrous Gluconate', 'CHEMICAL')",2
+"('Sodium', 'CHEMICAL')",29
+"('Q12H', 'CHEMICAL')",28
+"('Discontinue', 'CHEMICAL')",1
+"('Shortness of breath', 'DISEASE')",5
+"('Weight gain', 'DISEASE')",1
+"('Fever', 'DISEASE')",5
+"('Chills', 'DISEASE')",1
+"('Codeine', 'CHEMICAL')",5
+"('Remicade', 'CHEMICAL')",1
+"('Vancomycin', 'CHEMICAL')",22
+"('abscess', 'DISEASE')",20
+"('intra-abdominal abscess', 'DISEASE')",1
+"('remicade', 'CHEMICAL')",1
+"('steroid', 'CHEMICAL')",15
+"('epigastric pain', 'DISEASE')",1
+"('cipro', 'CHEMICAL')",8
+"('prednisone', 'CHEMICAL')",38
+"('emesis', 'DISEASE')",16
+"('abdominal pain', 'DISEASE')",45
+"('bandemia', 'DISEASE')",1
+"('peritonitis', 'DISEASE')",2
+"('Dilaudid', 'CHEMICAL')",3
+"('Morphine', 'CHEMICAL')",13
+"('Zofran', 'CHEMICAL')",3
+"('tylenol', 'CHEMICAL')",8
+"('Abx', 'CHEMICAL')",1
+"('Cipro', 'CHEMICAL')",6
+"('Vanc', 'CHEMICAL')",3
+"('NG', 'CHEMICAL')",14
+"('abdominal bloating', 'DISEASE')",1
+"('Denies chills', 'DISEASE')",1
+"('sweats', 'DISEASE')",8
+"('weight loss', 'DISEASE')",14
+"('Denies headache', 'DISEASE')",4
+"('sinus tenderness', 'DISEASE')",5
+"('rhinorrhea', 'DISEASE')",6
+"('congestion', 'DISEASE')",6
+"('shortness of breath', 'DISEASE')",64
+"('tightness', 'DISEASE')",3
+"('nausea, vomiting', 'DISEASE')",4
+"('constipation', 'DISEASE')",53
+"('Denies dysuria', 'DISEASE')",4
+"(""Crohn's Disease\nDepression"", 'DISEASE')",1
+"('arthritis', 'DISEASE')",4
+"('Anorexia', 'DISEASE')",1
+"('CAD', 'DISEASE')",54
+"('Dry MMM', 'DISEASE')",1
+"('hypoactive bowel', 'DISEASE')",1
+"('Tenderness', 'DISEASE')",2
+"(""Crohn's\nflare."", 'DISEASE')",1
+"(""Crohn's flare, largely stable."", 'DISEASE')",1
+"('& omental inflamm', 'DISEASE')",1
+"('pleural effusion', 'DISEASE')",26
+"('right effusion', 'DISEASE')",1
+"('abcess', 'DISEASE')",3
+"(""Crohn's presenting with a\nsevere flare and intravascular depletion"", 'DISEASE')",1
+"(""Crohn's Flare"", 'DISEASE')",1
+"('Worsening bowel wall thickening', 'DISEASE')",1
+"('Crohns', 'DISEASE')",1
+"('Sinus Tachycardia', 'DISEASE')",2
+"('intravascular depletion', 'DISEASE')",1
+"('crohns', 'DISEASE')",1
+"('ABx', 'CHEMICAL')",1
+"('febrile', 'DISEASE')",8
+"('morphine', 'CHEMICAL')",7
+"('fever', 'DISEASE')",53
+"('infection', 'DISEASE')",64
+"('Ciprofloxacin', 'CHEMICAL')",13
+"('Celexa', 'CHEMICAL')",5
+"('Prednisone', 'CHEMICAL')",32
+"('Ambien', 'CHEMICAL')",7
+"('OCP', 'CHEMICAL')",1
+"('Vit D 250 mg-200', 'CHEMICAL')",1
+"('Acetaminophen', 'CHEMICAL')",31
+"('Citalopram', 'CHEMICAL')",3
+"('Hydromorphone', 'CHEMICAL')",1
+"('Q3H', 'CHEMICAL')",2
+"('Iron', 'CHEMICAL')",41
+"('Ferrous Sulfate', 'CHEMICAL')",16
+"('Pantoprazole', 'CHEMICAL')",19
+"('Budesonide', 'CHEMICAL')",1
+"('insomnia', 'DISEASE')",10
+"(""Crohn's Flare\nFevers\nDehydration"", 'DISEASE')",1
+"(""Crohn's dz\n\n\nDischarge Condition:\nStable."", 'DISEASE')",1
+"('vomiting', 'DISEASE')",20
+"('dehydration', 'DISEASE')",8
+"('dry\nmouth', 'DISEASE')",1
+"('vomit', 'DISEASE')",6
+"('chills', 'DISEASE')",41
+"('redness', 'DISEASE')",10
+"('NOR', 'CHEMICAL')",1
+"('Penicillins', 'CHEMICAL')",6
+"('seizure', 'DISEASE')",29
+"('hematemesis', 'DISEASE')",9
+"('myelitis', 'DISEASE')",2
+"('gastric ulcer', 'DISEASE')",2
+"('vessel s/p EGD', 'DISEASE')",1
+"('lower back pain', 'DISEASE')",1
+"('weakness', 'DISEASE')",3
+"('numbness', 'DISEASE')",5
+"('PCP', 'CHEMICAL')",44
+"('hyperreflexia', 'DISEASE')",1
+"('glucose', 'CHEMICAL')",18
+"('solu-medrol', 'CHEMICAL')",2
+"('spasticity', 'DISEASE')",3
+"('bacteremia', 'DISEASE')",8
+"('septic', 'DISEASE')",6
+"('gout', 'DISEASE')",9
+"('lymphoma', 'DISEASE')",1
+"('traumatic', 'DISEASE')",3
+"('x5days', 'DISEASE')",1
+"('UGIB', 'DISEASE')",2
+"('hypercholesterolemia', 'DISEASE')",5
+"('asthma', 'DISEASE')",8
+"('stenosis', 'DISEASE')",35
+"('eczema', 'DISEASE')",1
+"('O2 Sat', 'CHEMICAL')",3
+"('apraxia', 'DISEASE')",1
+"('Extraocular movements', 'DISEASE')",1
+"('nystagmus', 'DISEASE')",3
+"('Palate', 'DISEASE')",1
+"('fasciculations', 'DISEASE')",1
+"('Tri', 'CHEMICAL')",1
+"('Ach', 'CHEMICAL')",1
+"('cord swelling', 'DISEASE')",1
+"('Degenerative disease', 'DISEASE')",1
+"('seizures', 'DISEASE')",11
+"('Trileptal', 'CHEMICAL')",3
+"('neurosarcoid', 'DISEASE')",1
+"('granulomas', 'DISEASE')",1
+"('malignancy', 'DISEASE')",10
+"('varicella', 'DISEASE')",1
+"('Etiology of his neurological dysfunction', 'DISEASE')",1
+"('TB', 'DISEASE')",9
+"('GI - UGIB', 'DISEASE')",1
+"('solids', 'CHEMICAL')",2
+"('bleed', 'DISEASE')",8
+"('arrhythmia', 'DISEASE')",3
+"('allopurinol', 'CHEMICAL')",5
+"('theophylline', 'CHEMICAL')",2
+"('Bactrim', 'CHEMICAL')",10
+"('ppx', 'CHEMICAL')",1
+"('q24h', 'CHEMICAL')",2
+"('zocor', 'CHEMICAL')",2
+"('enalapril', 'CHEMICAL')",1
+"('bactrim', 'CHEMICAL')",2
+"('Allopurinol', 'CHEMICAL')",3
+"('Theophylline', 'CHEMICAL')",1
+"('Trimethoprim-Sulfamethoxazole', 'CHEMICAL')",5
+"('Fluticasone Propionate', 'CHEMICAL')",1
+"('Oxcarbazepine', 'CHEMICAL')",1
+"('Seizure', 'DISEASE')",3
+"('Myelitis', 'DISEASE')",1
+"('GI bleed/duodenal ulcer', 'DISEASE')",1
+"('CC', 'CHEMICAL')",2
+"('Adverse Drug Reactions', 'DISEASE')",8
+"('Blood Loss Anemia', 'DISEASE')",1
+"('respiratory distress', 'DISEASE')",11
+"('blood loss', 'DISEASE')",8
+"('wheeze', 'DISEASE')",10
+"('COPD', 'DISEASE')",72
+"('low blood pressures', 'DISEASE')",1
+"('Atrial fibrillation', 'DISEASE')",15
+"('Denies fever', 'DISEASE')",5
+"('Denies cough', 'DISEASE')",2
+"('wheezing', 'DISEASE')",44
+"('Denies chest pain', 'DISEASE')",4
+"('Denies nausea, vomiting', 'DISEASE')",3
+"('arthralgias', 'DISEASE')",1
+"('myalgias', 'DISEASE')",7
+"('Denies rashes or skin changes', 'DISEASE')",1
+"('Right heart failure', 'DISEASE')",1
+"('ASA', 'CHEMICAL')",12
+"('Hyperlipidemia', 'DISEASE')",17
+"('Type 2 Diabetes Mellitus', 'DISEASE')",1
+"('Hypothyroidism', 'DISEASE')",15
+"('Chronic Kidney Disease Stage II', 'DISEASE')",1
+"('Alcohol', 'CHEMICAL')",8
+"('lung cancer', 'DISEASE')",1
+"('tenderness', 'DISEASE')",24
+"('biatrial enlargement', 'DISEASE')",1
+"('amiodarone', 'CHEMICAL')",20
+"('pericardial abnormality', 'DISEASE')",1
+"('pericardial cyst', 'DISEASE')",1
+"('pleural effusions', 'DISEASE')",30
+"('patent foramen ovale', 'DISEASE')",3
+"('ventricular hypertrophy', 'DISEASE')",8
+"('valve prolapse', 'DISEASE')",2
+"('mitral regurgitation', 'DISEASE')",29
+"('tricuspid regurgitation', 'DISEASE')",13
+"('pulmonary artery systolic hypertension', 'DISEASE')",6
+"('pericardial effusion', 'DISEASE')",24
+"('systolic dysfunction', 'DISEASE')",2
+"('VQ', 'CHEMICAL')",1
+"('cardiomegaly', 'DISEASE')",6
+"('pulmonary embolism', 'DISEASE')",11
+"('hydronephrosis', 'DISEASE')",9
+"('vascular thrombus', 'DISEASE')",1
+"('renal disease', 'DISEASE')",1
+"('fibrillation', 'DISEASE')",6
+"('right pleural effusion', 'DISEASE')",2
+"('right basilar atelectasis', 'DISEASE')",1
+"('Aorta', 'DISEASE')",1
+"('aneurysm', 'DISEASE')",7
+"('pulmonary vascular congestion', 'DISEASE')",3
+"('chronic diastolic CHF', 'DISEASE')",1
+"('atrial fibrillation', 'DISEASE')",18
+"('blood loss anemia', 'DISEASE')",1
+"('vascular ectasias', 'DISEASE')",1
+"('hypoxemia', 'DISEASE')",3
+"('secondary pulmonary hypertension', 'DISEASE')",1
+"('Etiology of acute', 'DISEASE')",1
+"('V/Q', 'CHEMICAL')",2
+"('mod-severe', 'DISEASE')",1
+"('right ventricular dilatation', 'DISEASE')",1
+"('PFO', 'DISEASE')",2
+"('hypoxia', 'DISEASE')",18
+"('valvular disease', 'DISEASE')",1
+"('RA', 'DISEASE')",13
+"('Atrial Fibrillation', 'DISEASE')",2
+"('aspirin', 'CHEMICAL')",39
+"('bleeding', 'DISEASE')",76
+"('atenolol', 'CHEMICAL')",5
+"('metoprolol', 'CHEMICAL')",36
+"('renal failure', 'DISEASE')",3
+"('CKD', 'DISEASE')",7
+"('uptitrated', 'CHEMICAL')",1
+"('uptitration', 'CHEMICAL')",3
+"('simvastatin', 'CHEMICAL')",10
+"('Diabetes Mellitus', 'DISEASE')",6
+"('glipizide', 'CHEMICAL')",11
+"('levothyroxine', 'CHEMICAL')",8
+"('Acute-on-Chronic renal failure', 'DISEASE')",1
+"('Cr', 'CHEMICAL')",9
+"('pulmonary hypertension', 'DISEASE')",7
+"('Simvastatin 10', 'CHEMICAL')",1
+"('Levothyroxine', 'CHEMICAL')",6
+"('Glipizide', 'CHEMICAL')",6
+"('Loratadine', 'CHEMICAL')",1
+"('Ascorbic Acid', 'CHEMICAL')",4
+"('simvastatin 10 mg', 'CHEMICAL')",1
+"('loratadine', 'CHEMICAL')",1
+"('omeprazole', 'CHEMICAL')",5
+"('furosemide', 'CHEMICAL')",7
+"('ascorbic acid', 'CHEMICAL')",4
+"('DX', 'CHEMICAL')",1
+"('metoprolol tartrate', 'CHEMICAL')",3
+"('Chronic diastolic heart failure', 'DISEASE')",1
+"('gastrointestinal bleeding', 'DISEASE')",3
+"('anemia', 'DISEASE')",74
+"('PCP', 'DISEASE')",3
+"('hypothermia', 'DISEASE')",1
+"('slurring', 'DISEASE')",1
+"('RV\ndysfunction', 'DISEASE')",1
+"('pneumothorax', 'DISEASE')",16
+"('vasodilators', 'CHEMICAL')",1
+"('nitric oxide', 'CHEMICAL')",1
+"('Viagra', 'CHEMICAL')",1
+"('death', 'DISEASE')",3
+"('Cephalosporins', 'CHEMICAL')",1
+"('Dysuria', 'DISEASE')",1
+"('cystitis', 'DISEASE')",4
+"('infections', 'DISEASE')",7
+"('UTIs', 'DISEASE')",4
+"('dysuria', 'DISEASE')",12
+"('ascites', 'DISEASE')",21
+"('meropenem', 'CHEMICAL')",3
+"('urosepsis', 'DISEASE')",5
+"('respiratory\ndistress', 'DISEASE')",2
+"('non-rebreather', 'CHEMICAL')",3
+"('nitroglycerin', 'CHEMICAL')",15
+"('s/p TAH/XRT', 'DISEASE')",1
+"('Urinary Retention', 'DISEASE')",1
+"('gut syndrome', 'DISEASE')",1
+"('enteritis', 'DISEASE')",2
+"('Migraine', 'DISEASE')",1
+"('Depression', 'DISEASE')",15
+"('thrombophlebitis', 'DISEASE')",1
+"('radiculopathy', 'DISEASE')",1
+"('Takotsubo', 'DISEASE')",1
+"('CM', 'DISEASE')",2
+"('Hyponatremia', 'DISEASE')",1
+"('alcohol', 'CHEMICAL')",31
+"('ETOH abuse', 'DISEASE')",2
+"('GEN', 'CHEMICAL')",14
+"('anicteric', 'DISEASE')",5
+"('thyromegaly', 'DISEASE')",4
+"('hepatosplenomegaly', 'DISEASE')",4
+"('hemolytic', 'DISEASE')",2
+"('alpha streptococcus', 'CHEMICAL')",1
+"('Ag', 'CHEMICAL')",2
+"('vascular congestion', 'DISEASE')",1
+"('pyelonephritis', 'DISEASE')",3
+"('fullness', 'DISEASE')",2
+"('UPJ obstruction', 'DISEASE')",1
+"('post-cholecystectomy', 'DISEASE')",1
+"('ground-glass', 'DISEASE')",1
+"('pneumonitis', 'DISEASE')",4
+"('hypersensitivity pneumonitis', 'DISEASE')",2
+"('toxicity', 'DISEASE')",3
+"('NSIP', 'DISEASE')",2
+"('aortic stenosis', 'DISEASE')",18
+"('mitral valve prolapse', 'DISEASE')",3
+"('mitral\nregurgitation', 'DISEASE')",10
+"('pulmonary artery systolic', 'DISEASE')",4
+"('pulmonary opacifications', 'DISEASE')",1
+"('hemorrhage', 'DISEASE')",13
+"('effusion', 'DISEASE')",12
+"('volume loss', 'DISEASE')",2
+"('small-bowel obstruction', 'DISEASE')",2
+"('loop of bowel', 'DISEASE')",1
+"('Dilated bowel loop', 'DISEASE')",1
+"('left hydronephrosis', 'DISEASE')",1
+"('bowel obstruction', 'DISEASE')",4
+"('extra-hepatic biliary dilatation', 'DISEASE')",1
+"('hydroureteronephrosis', 'DISEASE')",1
+"('Sepsis', 'DISEASE')",6
+"('lactate', 'CHEMICAL')",6
+"('ethanol', 'CHEMICAL')",2
+"('Abdominal pain', 'DISEASE')",2
+"('methadone', 'CHEMICAL')",8
+"('volume overload', 'DISEASE')",5
+"('ground-glass opacities', 'DISEASE')",1
+"('Pneumonitis', 'DISEASE')",1
+"('Beta-glucan', 'CHEMICAL')",1
+"('Etiology of infiltrates', 'DISEASE')",1
+"('medication-induced lung toxicity', 'DISEASE')",1
+"('Urosepsis', 'DISEASE')",3
+"('urinary complaints', 'DISEASE')",1
+"('Hyoscyamine', 'CHEMICAL')",2
+"('bladder spasm pain', 'DISEASE')",1
+"('inflammation', 'DISEASE')",7
+"('myelodysplasia', 'DISEASE')",1
+"('Hemolysis', 'DISEASE')",2
+"('cancer', 'DISEASE')",13
+"('urinoma', 'DISEASE')",1
+"('alprazolam', 'CHEMICAL')",2
+"('fluoxetine', 'CHEMICAL')",4
+"('Osteoporosis', 'DISEASE')",5
+"('vitamin D', 'CHEMICAL')",4
+"('calcium', 'CHEMICAL')",8
+"('QHS', 'CHEMICAL')",12
+"('ergocalciferol', 'CHEMICAL')",1
+"('vitamin D2', 'CHEMICAL')",1
+"('fexofenadine', 'CHEMICAL')",2
+"('QID', 'CHEMICAL')",40
+"('pilocarpine HCl', 'CHEMICAL')",1
+"('Q4H', 'CHEMICAL')",37
+"('Pyridium', 'CHEMICAL')",1
+"('Vitamin B-12', 'CHEMICAL')",1
+"('darifenacin', 'CHEMICAL')",1
+"('hyoscyamine sulfate', 'CHEMICAL')",2
+"('bladder spasm', 'DISEASE')",3
+"('zolmitriptan', 'CHEMICAL')",1
+"('headache', 'DISEASE')",16
+"('calcium carbonate', 'CHEMICAL')",5
+"('Ethanol', 'CHEMICAL')",1
+"('acetaminophen', 'CHEMICAL')",8
+"('lorazepam', 'CHEMICAL')",3
+"('cholecalciferol', 'CHEMICAL')",5
+"('vitamin D3', 'CHEMICAL')",4
+"('Salagen', 'CHEMICAL')",1
+"('ethyl alcohol', 'CHEMICAL')",1
+"('hydromorphone', 'CHEMICAL')",1
+"('pulmonary infiltrates', 'DISEASE')",1
+"('shortness of\nbreath', 'DISEASE')",9
+"('urinary tract infection', 'DISEASE')",6
+"('Oxycodone', 'CHEMICAL')",12
+"('Hyocyamine', 'CHEMICAL')",1
+"('Clotrimazole', 'CHEMICAL')",2
+"('DKA', 'DISEASE')",14
+"('diabetes, charcot', 'DISEASE')",2
+"('non-bilious', 'DISEASE')",2
+"('fatigue', 'DISEASE')",16
+"('cellulitis', 'DISEASE')",5
+"('lantus', 'CHEMICAL')",4
+"('ketones', 'CHEMICAL')",2
+"('Diabetic Ketoacidosis', 'DISEASE')",6
+"('osteolysis', 'DISEASE')",4
+"('Mellitus Type 2\n-Bilateral', 'DISEASE')",1
+"('Charcot', 'DISEASE')",2
+"('-History', 'DISEASE')",2
+"('right foot ulcer', 'DISEASE')",1
+"('type II Diabetes Mellitus', 'DISEASE')",1
+"('Normocephalic', 'DISEASE')",1
+"('proptosis', 'DISEASE')",1
+"('nonerythematous', 'DISEASE')",1
+"('l-spine tenderness', 'DISEASE')",1
+"('CTAB', 'CHEMICAL')",15
+"('rhonchi', 'DISEASE')",2
+"('hernias', 'DISEASE')",2
+"('ulceration', 'DISEASE')",1
+"('hallucinations', 'DISEASE')",1
+"('delusions', 'DISEASE')",4
+"('blinks', 'DISEASE')",1
+"('palate', 'DISEASE')",1
+"('dysarthria', 'DISEASE')",3
+"('dysphagia', 'DISEASE')",2
+"('atrophy', 'DISEASE')",4
+"('fasciculation', 'DISEASE')",1
+"('rigidity', 'DISEASE')",1
+"('tremor', 'DISEASE')",7
+"('chorea', 'DISEASE')",1
+"('athetosis', 'DISEASE')",1
+"('hemiballismus', 'DISEASE')",1
+"('charcot', 'DISEASE')",1
+"('onychomycosis', 'DISEASE')",1
+"('asterixis', 'DISEASE')",4
+"('Ca', 'CHEMICAL')",3
+"('Mg', 'CHEMICAL')",6
+"('Vanco', 'CHEMICAL')",5
+"('SED-Rate', 'CHEMICAL')",1
+"('NEGATIVE.RARE', 'DISEASE')",1
+"('skin ulcer', 'DISEASE')",1
+"('neuropathic', 'DISEASE')",1
+"('left foot cellulitis', 'DISEASE')",1
+"('allergic reaction', 'DISEASE')",3
+"('non-raised', 'DISEASE')",1
+"('sensitivites', 'CHEMICAL')",1
+"('Meropenum', 'CHEMICAL')",1
+"('cocci', 'CHEMICAL')",1
+"('Keflex', 'CHEMICAL')",3
+"('qid', 'CHEMICAL')",3
+"('ferrous sulfate', 'CHEMICAL')",9
+"('a drug reaction', 'DISEASE')",1
+"('erythema multiforme', 'DISEASE')",1
+"('allergy', 'DISEASE')",11
+"('Humalog SS', 'CHEMICAL')",1
+"('Rash', 'DISEASE')",3
+"('pruritis', 'DISEASE')",4
+"('Cephalexin', 'CHEMICAL')",5
+"('ALL', 'DISEASE')",1
+"('qAM', 'CHEMICAL')",4
+"('Diabetic foot ulcer infection', 'DISEASE')",1
+"('rash', 'DISEASE')",18
+"('FSBG', 'CHEMICAL')",1
+"('Afebrile', 'DISEASE')",5
+"('piperacillin', 'CHEMICAL')",2
+"('tazobactam', 'CHEMICAL')",2
+"('ciprofloxacin', 'CHEMICAL')",15
+"('cephalexin', 'CHEMICAL')",2
+"('Glargine', 'CHEMICAL')",3
+"('dizzyness', 'DISEASE')",1
+"('headedness', 'DISEASE')",1
+"('NamePattern1', 'CHEMICAL')",1
+"('STEMI', 'CHEMICAL')",11
+"('Chest Pain', 'DISEASE')",1
+"('tobacco abuse', 'DISEASE')",2
+"('neurofibromatosis', 'DISEASE')",2
+"('alcohol abuse', 'DISEASE')",1
+"('diaphoresis', 'DISEASE')",6
+"('Reopro', 'CHEMICAL')",1
+"('Plavix', 'CHEMICAL')",20
+"('acute GI bleed', 'DISEASE')",1
+"('dopamine', 'CHEMICAL')",13
+"('melena', 'DISEASE')",5
+"('nausea and vomiting', 'DISEASE')",5
+"('claudication', 'DISEASE')",2
+"('Neurofibromatosis', 'DISEASE')",3
+"('tumor', 'DISEASE')",3
+"('Hypercalcemia', 'DISEASE')",1
+"('neurofibromas', 'DISEASE')",1
+"('rales or rhonchi', 'DISEASE')",1
+"('DP', 'CHEMICAL')",3
+"('PO2', 'CHEMICAL')",12
+"('O2 SAT-97', 'CHEMICAL')",1
+"('O2 SAT-69', 'CHEMICAL')",1
+"('O2 SAT-96', 'CHEMICAL')",1
+"('O2 SAT-98', 'CHEMICAL')",1
+"('Ventricular ectopy', 'DISEASE')",1
+"('ventricular couplets', 'DISEASE')",1
+"('multi vessel disease', 'DISEASE')",1
+"('LCX', 'CHEMICAL')",5
+"('OM3', 'DISEASE')",2
+"('left ventricular systolic', 'DISEASE')",2
+"('thrombi', 'DISEASE')",2
+"('aortic regurgitation', 'DISEASE')",13
+"('aortic valve stenosis', 'DISEASE')",4
+"('pulmonary artery systolic pressure', 'DISEASE')",5
+"('tamponade', 'DISEASE')",6
+"('hypothyroidism', 'DISEASE')",8
+"('adrenal insufficiency', 'DISEASE')",5
+"('cortisol', 'CHEMICAL')",2
+"('carvedilol', 'CHEMICAL')",7
+"('shock', 'DISEASE')",6
+"('metabolic acidemia', 'DISEASE')",1
+"('RTA Type II', 'CHEMICAL')",1
+"('metabolic disturbance', 'DISEASE')",1
+"('NSVT', 'DISEASE')",1
+"('vessel disease', 'DISEASE')",4
+"('PVD', 'DISEASE')",10
+"('iliac disease', 'DISEASE')",1
+"('100mcg levothyroxine', 'CHEMICAL')",1
+"('GI bleeding', 'DISEASE')",10
+"('Toprol', 'CHEMICAL')",10
+"('Albuterol', 'CHEMICAL')",26
+"('Clopidogrel', 'CHEMICAL')",9
+"('Atorvastatin Calcium', 'CHEMICAL')",4
+"('Levothyroxine Sodium', 'CHEMICAL')",1
+"('Quetiapine Fumarate', 'CHEMICAL')",1
+"('Carvedilol', 'CHEMICAL')",7
+"('Myocardial Infarction', 'DISEASE')",3
+"('Cardiogenic shock', 'DISEASE')",1
+"('Anorectal bleeding', 'DISEASE')",1
+"('Hypothyroidism', 'CHEMICAL')",1
+"('htn', 'DISEASE')",6
+"('HL', 'DISEASE')",2
+"('DES', 'CHEMICAL')",5
+"('plavix', 'CHEMICAL')",12
+"('Sat', 'CHEMICAL')",2
+"('nitro SL', 'CHEMICAL')",2
+"('shoulder pain', 'DISEASE')",1
+"('venous thrombosis', 'DISEASE')",4
+"('rigors', 'DISEASE')",5
+"('ankle edema', 'DISEASE')",2
+"('presyncope', 'DISEASE')",3
+"('knee pain', 'DISEASE')",4
+"('Diabetes', 'DISEASE')",11
+"('diabetes', 'DISEASE')",11
+"('peripheral neuropathy', 'DISEASE')",1
+"(""6)s/p R nephrectomy 5 years ago - pathology benign per patient\n7)early parkinsonism-followed by Neuro\n8)Bells'palsy ([**2-1**] HTN"", 'DISEASE')",1
+"('Denies tobbaco', 'DISEASE')",1
+"('cancers or strokes', 'DISEASE')",1
+"('DM\n\n', 'DISEASE')",1
+"('pallor', 'DISEASE')",5
+"('dermatitis', 'DISEASE')",7
+"('ulcers', 'DISEASE')",8
+"('xanthomas', 'DISEASE')",5
+"('Ct-198', 'DISEASE')",1
+"('INTUBA', 'CHEMICAL')",5
+"('Promus DES', 'CHEMICAL')",2
+"('vessel coronary artery disease', 'DISEASE')",3
+"('statin', 'CHEMICAL')",10
+"('ACE-inhibitor', 'CHEMICAL')",1
+"('atrial septal defect', 'DISEASE')",2
+"('inferior hypokinesis', 'DISEASE')",1
+"('ventricular septal defect', 'DISEASE')",2
+"('mitral annular calcification', 'DISEASE')",4
+"('LVOT obstruction', 'DISEASE')",1
+"('LVOT', 'DISEASE')",1
+"('Ther are small, bland-appearing,\nmobile elements associated with the MAC', 'DISEASE')",1
+"('STE', 'CHEMICAL')",2
+"('valsartan', 'CHEMICAL')",1
+"('hydrochlorothiazide', 'CHEMICAL')",1
+"('amlodipine', 'CHEMICAL')",10
+"('clonidine', 'CHEMICAL')",1
+"('Gemfibrozil', 'CHEMICAL')",3
+"('Diabetes type II', 'DISEASE')",1
+"('Chronic kidney disease', 'DISEASE')",3
+"('n-acetylcysteine', 'CHEMICAL')",1
+"('chronic microcytic anemia', 'DISEASE')",1
+"('terazosin', 'CHEMICAL')",1
+"('finasteride', 'CHEMICAL')",1
+"('Pravastatin', 'CHEMICAL')",3
+"('Terazosin', 'CHEMICAL')",4
+"('Valsartan', 'CHEMICAL')",4
+"('Finasteride', 'CHEMICAL')",1
+"('Omeprazole', 'CHEMICAL')",20
+"('Metoprolol Succinate', 'CHEMICAL')",4
+"('Amlodipine', 'CHEMICAL')",9
+"('Coronary Artery Disease', 'DISEASE')",2
+"('Kidney Disease', 'DISEASE')",1
+"('Metoprolol', 'CHEMICAL')",19
+"('Date/Time', 'CHEMICAL')",4
+"('GA', 'CHEMICAL')",3
+"('bacterial endocarditis', 'DISEASE')",1
+"('empyema', 'DISEASE')",5
+"('tricuspid endocarditis', 'DISEASE')",1
+"('pleuritic pain', 'DISEASE')",1
+"('FM', 'DISEASE')",1
+"('heroin', 'CHEMICAL')",3
+"('Methadone', 'CHEMICAL')",11
+"('Occ EtOH', 'CHEMICAL')",1
+"('RA', 'CHEMICAL')",1
+"('NRB', 'CHEMICAL')",8
+"('tachypneic', 'DISEASE')",4
+"('somnolent', 'DISEASE')",6
+"('CVA tenderness', 'DISEASE')",4
+"('UA', 'CHEMICAL')",17
+"('nitrite', 'CHEMICAL')",1
+"('THC', 'CHEMICAL')",3
+"('BACTERIA-MOD', 'CHEMICAL')",2
+"('BLOOD-TR', 'CHEMICAL')",3
+"('CK-MB-NotDone', 'CHEMICAL')",21
+"('LIPASE-10', 'CHEMICAL')",1
+"('MSSA', 'DISEASE')",2
+"('Oxacillin', 'CHEMICAL')",8
+"('gentamycin', 'CHEMICAL')",4
+"('q8', 'CHEMICAL')",2
+"('WNL', 'DISEASE')",2
+"('knee effusion', 'DISEASE')",1
+"('knee joint effusion', 'DISEASE')",1
+"('Percocet', 'CHEMICAL')",12
+"('splenic abscess', 'DISEASE')",1
+"('tooth pain', 'DISEASE')",1
+"('AMA', 'CHEMICAL')",1
+"('smoking', 'CHEMICAL')",13
+"('nicotine', 'CHEMICAL')",1
+"('intrauterine pregnancy\n2) Bacterial', 'DISEASE')",1
+"('endocarditis', 'DISEASE')",8
+"('Right knee effusion', 'DISEASE')",1
+"('fevers/chills', 'DISEASE')",3
+"('ROS', 'CHEMICAL')",2
+"('sore throat', 'DISEASE')",1
+"('sinus pain', 'DISEASE')",1
+"('vaginal itching', 'DISEASE')",1
+"('photophobia', 'DISEASE')",4
+"('Febrile', 'DISEASE')",2
+"('sl tenderness', 'DISEASE')",1
+"('dullness', 'DISEASE')",4
+"('ache', 'DISEASE')",3
+"('CVA', 'CHEMICAL')",13
+"('Cor', 'DISEASE')",1
+"('LACTATE-2.4', 'CHEMICAL')",1
+"('MONOS-9', 'DISEASE')",1
+"('LEUK-TR', 'CHEMICAL')",2
+"('perinephric abscess', 'DISEASE')",1
+"('Gallbladder wall edema', 'DISEASE')",1
+"('gallstones', 'DISEASE')",6
+"('biliary duct', 'DISEASE')",1
+"('acalculus cholecystitis', 'DISEASE')",1
+"('bibasilar infiltrates', 'DISEASE')",1
+"('tic bite', 'DISEASE')",1
+"('meningitis', 'DISEASE')",3
+"('Normocytic Anemia', 'DISEASE')",2
+"('iron-deficiency', 'DISEASE')",1
+"('Disp:*10', 'DISEASE')",2
+"('Diphenhydramine HCl', 'CHEMICAL')",2
+"('itchiness', 'DISEASE')",1
+"('Pyelonephritis', 'DISEASE')",1
+"('Iron-deficiency', 'DISEASE')",1
+"('acute abdominal pain', 'DISEASE')",1
+"('low blood iron', 'DISEASE')",1
+"('urinary tract infections', 'DISEASE')",2
+"('post-intercourse', 'CHEMICAL')",1
+"('Respiratory distress', 'DISEASE')",3
+"('Pulmonary emboli\n\n', 'DISEASE')",1
+"('GIB', 'DISEASE')",15
+"('TPA', 'CHEMICAL')",2
+"('alkalosis', 'DISEASE')",4
+"('Non-small cell Lung CA s/p resection', 'DISEASE')",1
+"('Alcohol abuse', 'DISEASE')",2
+"('alcoholic hepatitis\n\n', 'DISEASE')",1
+"('part-time', 'CHEMICAL')",2
+"('ruptured aneurysm', 'DISEASE')",1
+"('ovarian cancer', 'DISEASE')",1
+"('icterus', 'DISEASE')",7
+"('normoactive bowel', 'DISEASE')",3
+"('ankle jerks', 'DISEASE')",1
+"('Vitamin B12', 'CHEMICAL')",2
+"('Left ventricular systolic function', 'DISEASE')",1
+"('Left ventricular systolic', 'DISEASE')",1
+"('hypertrophy', 'DISEASE')",5
+"('LENI', 'CHEMICAL')",2
+"('Partially occlusive DVT', 'DISEASE')",2
+"('acute hemorrhage', 'DISEASE')",2
+"('fatty liver', 'DISEASE')",1
+"('liver lesion', 'DISEASE')",2
+"('HIP', 'CHEMICAL')",1
+"('primary malignancy', 'DISEASE')",1
+"('hematoma', 'DISEASE')",11
+"('trauma', 'DISEASE')",14
+"('neoplasm', 'DISEASE')",2
+"('femoral head avascular necrosis', 'DISEASE')",1
+"('CEFEPIME--------------', 'CHEMICAL')",4
+"('TOBRAMYCIN------------', 'CHEMICAL')",5
+"('NSCLC', 'DISEASE')",3
+"('DVTs', 'DISEASE')",7
+"('benzodiazepines', 'CHEMICAL')",2
+"('Citrobacter freundii', 'DISEASE')",1
+"('Clostridium dificile colitis', 'DISEASE')",2
+"('EGD', 'CHEMICAL')",7
+"('non-bloody', 'DISEASE')",1
+"('macrocytic anemia', 'DISEASE')",1
+"('vitamin B-12', 'CHEMICAL')",1
+"('of marrow suppression', 'DISEASE')",1
+"('Nose bleed', 'DISEASE')",1
+"('Lovenox', 'CHEMICAL')",9
+"('Bleeding', 'DISEASE')",1
+"('aggressive blood', 'DISEASE')",1
+"('Afrin', 'CHEMICAL')",1
+"('Hypoalbuminemia', 'DISEASE')",1
+"('cirrhosis', 'DISEASE')",11
+"('Left leg pain', 'DISEASE')",1
+"('swelling/induration', 'DISEASE')",1
+"('FEN', 'CHEMICAL')",4
+"('Constipation', 'DISEASE')",7
+"('Acetate', 'CHEMICAL')",1
+"('-Ipratropium Bromide', 'CHEMICAL')",1
+"('NEB', 'CHEMICAL')",1
+"('Vitamins', 'CHEMICAL')",2
+"('Fludrocortisone', 'CHEMICAL')",3
+"('Folic Acid', 'CHEMICAL')",13
+"('Thiamine HCl', 'CHEMICAL')",8
+"('Multivitamin', 'CHEMICAL')",9
+"('Ipratropium Bromide', 'CHEMICAL')",11
+"('shortness of breath/wheezing', 'DISEASE')",1
+"('Levalbuterol HCl', 'CHEMICAL')",1
+"('Syrup', 'CHEMICAL')",4
+"('Bisacodyl', 'CHEMICAL')",4
+"('Mupirocin Calcium', 'CHEMICAL')",1
+"('Sodium Chloride', 'CHEMICAL')",3
+"('Oxymetazoline', 'CHEMICAL')",1
+"('nose bleed', 'DISEASE')",1
+"('venous thrombi', 'DISEASE')",1
+"('Ventilator-associated pneumonia', 'DISEASE')",1
+"('lateralis muscle hematoma', 'DISEASE')",1
+"('non-small cell lung cancer s/p resection', 'DISEASE')",1
+"('gastrointestinal bleed', 'DISEASE')",4
+"('alcohol-related hepatitis', 'DISEASE')",1
+"('bacterial infection', 'DISEASE')",1
+"('nose bleeds', 'DISEASE')",1
+"('PAT', 'CHEMICAL')",1
+"('nose-bleeds', 'DISEASE')",1
+"('Coronary artery disease s/p', 'DISEASE')",1
+"('NSTEMI', 'DISEASE')",9
+"('lower extremity swelling', 'DISEASE')",3
+"('methylprednisolone', 'CHEMICAL')",1
+"('albuterol/ipratropium', 'CHEMICAL')",1
+"('systolic heart failure', 'DISEASE')",6
+"('hypoxemic respiratory distress', 'DISEASE')",1
+"('Denies arthralgias', 'DISEASE')",2
+"('rashes', 'DISEASE')",5
+"('COPD Stage', 'DISEASE')",1
+"('chronic kidney disease', 'DISEASE')",2
+"('prostatic hyperplasia', 'DISEASE')",1
+"('colonic adenomas', 'DISEASE')",1
+"('forceful', 'DISEASE')",1
+"('jugular venous distention', 'DISEASE')",3
+"('PD', 'DISEASE')",4
+"('RBC-3.31', 'CHEMICAL')",1
+"('left bundle-branch block', 'DISEASE')",1
+"('hazy opacity', 'DISEASE')",1
+"('interstitial edema', 'DISEASE')",1
+"('valvular regurgitation', 'DISEASE')",2
+"('pulmonic regurgitation', 'DISEASE')",2
+"('interstitial pulmonary edema', 'DISEASE')",1
+"('Aortic valve calcifications', 'DISEASE')",1
+"('levalbuterol', 'CHEMICAL')",2
+"('ipratropium', 'CHEMICAL')",7
+"('O2 of 1L', 'CHEMICAL')",1
+"('Shortness of breath/acute on chronic systolic CHF', 'DISEASE')",1
+"('lung disease', 'DISEASE')",2
+"('Lactic acidosis', 'DISEASE')",1
+"('Lactate', 'CHEMICAL')",3
+"('pulmonary congestion', 'DISEASE')",2
+"('bicarb', 'CHEMICAL')",2
+"('K', 'CHEMICAL')",12
+"('over-diuresis', 'DISEASE')",2
+"('HCTZ', 'CHEMICAL')",3
+"('Fe', 'CHEMICAL')",6
+"('comorbidity', 'DISEASE')",1
+"('tamsulosin', 'CHEMICAL')",2
+"('Ferrous', 'CHEMICAL')",1
+"('Acute Renal Failure', 'DISEASE')",2
+"('ARF', 'DISEASE')",10
+"('emphysema', 'DISEASE')",7
+"('LevAbluterol', 'CHEMICAL')",2
+"('albuterol inhaler', 'CHEMICAL')",3
+"('atrovent inhaler', 'CHEMICAL')",2
+"('Albuterol sulfate', 'CHEMICAL')",2
+"('Atrovent HFA', 'CHEMICAL')",3
+"('Combivent', 'CHEMICAL')",4
+"('Latanoprost', 'CHEMICAL')",2
+"('Tamsulosin', 'CHEMICAL')",7
+"('O2 with 1L NC', 'CHEMICAL')",1
+"('Dx', 'CHEMICAL')",1
+"('levalbuterol HCl', 'CHEMICAL')",1
+"('ipratropium bromide', 'CHEMICAL')",2
+"('Inhaler', 'CHEMICAL')",7
+"('shortness', 'DISEASE')",4
+"('latanoprost', 'CHEMICAL')",1
+"('docusate sodium', 'CHEMICAL')",4
+"('heart diastolic failure', 'DISEASE')",1
+"('Acute Kidney Injury', 'DISEASE')",1
+"('unstable angina', 'DISEASE')",2
+"('heart disease', 'DISEASE')",2
+"('left Breast Cancer s/p chemo', 'DISEASE')",2
+"('ETOH', 'CHEMICAL')",15
+"('Edema', 'DISEASE')",5
+"('left ventricular systolic function', 'DISEASE')",6
+"('isordil', 'CHEMICAL')",1
+"('spasm', 'DISEASE')",1
+"('Atorvastatin', 'CHEMICAL')",10
+"('MG', 'CHEMICAL')",1
+"('Isosorbide', 'CHEMICAL')",5
+"('Multivitamins', 'CHEMICAL')",2
+"('Ranitidine', 'CHEMICAL')",2
+"('Ultram', 'CHEMICAL')",3
+"('Ambulating, gait steady\n', 'DISEASE')",1
+"('Sternal pain', 'DISEASE')",1
+"('lower extremity weakness', 'DISEASE')",3
+"('colon cancer', 'DISEASE')",2
+"('lightheadedness', 'DISEASE')",7
+"('levofloxacin 750', 'CHEMICAL')",1
+"('adenoma', 'DISEASE')",5
+"('carcinoma', 'DISEASE')",2
+"('sinus syndrome', 'DISEASE')",1
+"('bifascicular block', 'DISEASE')",1
+"('Atrial flutter', 'DISEASE')",1
+"('LA', 'CHEMICAL')",4
+"('osteoarthritis', 'DISEASE')",2
+"('osteoporosis', 'DISEASE')",4
+"('hypothyroid', 'DISEASE')",2
+"('insufficiency', 'DISEASE')",2
+"('transudative', 'DISEASE')",3
+"('RV diastolic dysfunction', 'DISEASE')",1
+"('Tibial talar dislocation', 'DISEASE')",1
+"('comminuted distal tib fib', 'DISEASE')",1
+"('wheezes or rhonchi', 'DISEASE')",3
+"('Hyperactive', 'DISEASE')",2
+"('chronic venous stasis', 'DISEASE')",2
+"('K-3.5 Cl-104', 'CHEMICAL')",1
+"('Augmentin', 'CHEMICAL')",2
+"('Amiodarone', 'CHEMICAL')",19
+"('Clavulanate', 'CHEMICAL')",1
+"('Name9', 'DISEASE')",2
+"('abdomenal pain', 'DISEASE')",3
+"('DM', 'DISEASE')",3
+"('AFib', 'DISEASE')",3
+"('breast cancer s/p radiation', 'DISEASE')",1
+"('Renal Artery Stenosis', 'DISEASE')",1
+"('renal insufficiency', 'DISEASE')",2
+"('ACEI', 'CHEMICAL')",5
+"('CP/SOB/N/V/belly pain', 'DISEASE')",1
+"('NIDDM', 'DISEASE')",2
+"('Breast cancer', 'DISEASE')",2
+"('Groin: small right hematoma', 'DISEASE')",1
+"('digoxin', 'CHEMICAL')",2
+"('nephropathy', 'DISEASE')",2
+"('Glyburide', 'CHEMICAL')",3
+"('PPX', 'CHEMICAL')",3
+"('gangrene', 'DISEASE')",1
+"('Nitroglycerin', 'CHEMICAL')",5
+"('Ranitidine HCl', 'CHEMICAL')",3
+"('Amlodipine Besylate', 'CHEMICAL')",1
+"('PAD', 'DISEASE')",2
+"('lethargy', 'DISEASE')",9
+"('SOb', 'CHEMICAL')",1
+"('hemorrhoids', 'DISEASE')",5
+"('Colitis', 'DISEASE')",1
+"('bradycardia', 'DISEASE')",2
+"('Diverticulosis', 'DISEASE')",2
+"('IBS', 'DISEASE')",1
+"('AI', 'CHEMICAL')",2
+"('Chronically ill', 'DISEASE')",2
+"('shivering', 'DISEASE')",2
+"('TYPE-[**Last', 'DISEASE')",1
+"('TOP', 'CHEMICAL')",2
+"('AST(SGOT)-12', 'CHEMICAL')",1
+"('CK(CPK)-27 ALK PHOS-71 AMYLASE-29', 'CHEMICAL')",1
+"('O2 SAT-75', 'CHEMICAL')",1
+"('TYPE-[**Last Name', 'DISEASE')",1
+"('calcification of the mitral', 'DISEASE')",1
+"('opacity', 'DISEASE')",7
+"('thoracolumbar', 'DISEASE')",1
+"('extensive degenerative', 'DISEASE')",1
+"('coronary artery calcifications', 'DISEASE')",1
+"('Descending colon', 'DISEASE')",1
+"('intra-abdominal', 'DISEASE')",1
+"('pneumatosis', 'DISEASE')",2
+"('calcifications', 'DISEASE')",6
+"('Rectum and sigmoid colon', 'DISEASE')",1
+"('pubic ramus fractures', 'CHEMICAL')",1
+"('atherosclerotic disease', 'DISEASE')",3
+"('anasarca', 'DISEASE')",4
+"('[**2148-5-30**]- TTE', 'CHEMICAL')",1
+"('Right ventricular systolic function', 'DISEASE')",1
+"('Cardiomegaly', 'DISEASE')",1
+"('thoracolumbar scoliosis', 'DISEASE')",1
+"('congestive failure', 'DISEASE')",1
+"('cardiac failure', 'DISEASE')",1
+"('UTI', 'DISEASE')",1
+"('Hypoxia', 'DISEASE')",2
+"('ARDS', 'DISEASE')",1
+"('Oxygen', 'CHEMICAL')",2
+"('Potassium', 'CHEMICAL')",3
+"('hypokalemia', 'DISEASE')",1
+"('linezolid', 'CHEMICAL')",6
+"('vanco', 'CHEMICAL')",5
+"('leukocytosis', 'DISEASE')",17
+"('Afterload reduction', 'DISEASE')",1
+"('LVH', 'DISEASE')",2
+"('hypovolemia', 'DISEASE')",5
+"('Treated infection', 'DISEASE')",1
+"('140', 'CHEMICAL')",3
+"('Diltiazem', 'CHEMICAL')",8
+"('Statin', 'CHEMICAL')",2
+"('KCL', 'CHEMICAL')",1
+"('QOD', 'CHEMICAL')",2
+"('albuterol', 'CHEMICAL')",15
+"('bisacodyl', 'CHEMICAL')",6
+"('Simvastatin', 'CHEMICAL')",8
+"('Albuterol Sulfate', 'CHEMICAL')",11
+"('Miconazole Nitrate', 'CHEMICAL')",1
+"('Potassium Chloride', 'CHEMICAL')",7
+"('Piperacillin-Tazobactam Na', 'CHEMICAL')",1
+"('Attending:[**Last', 'CHEMICAL')",4
+"('overdose', 'DISEASE')",4
+"('adjustment disorder', 'DISEASE')",1
+"('miscarriage', 'DISEASE')",1
+"('frank suicidal gestures', 'DISEASE')",1
+"('Nortriptyline', 'CHEMICAL')",2
+"('charcoal', 'CHEMICAL')",2
+"('nortriptyline', 'CHEMICAL')",4
+"('scoliosis', 'DISEASE')",2
+"('O2 100', 'CHEMICAL')",2
+"('PEEP', 'CHEMICAL')",3
+"('conjunctival pallor', 'DISEASE')",2
+"('CREAT-1.0', 'CHEMICAL')",1
+"('O2-100', 'CHEMICAL')",2
+"('O2-41 -ASSIST/CON INTUBATED-INTUBATED', 'CHEMICAL')",1
+"('TCA', 'CHEMICAL')",1
+"('TCA overdose', 'CHEMICAL')",2
+"('TCA poisoning', 'CHEMICAL')",1
+"('sodium bicarbonate', 'CHEMICAL')",1
+"('Sodium bicarbonate', 'CHEMICAL')",1
+"('ideations', 'DISEASE')",1
+"('25mcg', 'CHEMICAL')",1
+"('Adjustment disorder', 'DISEASE')",1
+"('Chest pain', 'DISEASE')",3
+"('orthopnea, paroxysmal nocturnal dyspnea', 'DISEASE')",1
+"('pedal edema', 'DISEASE')",1
+"('abdominal cramps', 'DISEASE')",1
+"('Polymyalgia rheumatica', 'DISEASE')",2
+"('drug allergies', 'DISEASE')",4
+"('Vasotec', 'CHEMICAL')",1
+"('Zantac', 'CHEMICAL')",3
+"('femoral bruits', 'DISEASE')",3
+"('bruising', 'DISEASE')",2
+"('Cholesterol', 'CHEMICAL')",1
+"('myocardial infarction', 'DISEASE')",5
+"('ACE inhibitor', 'CHEMICAL')",2
+"('LV dysfunction', 'DISEASE')",1
+"('nonsustained ventricular tachycardia', 'DISEASE')",1
+"('stress-dose steroids', 'CHEMICAL')",1
+"('agitation', 'DISEASE')",15
+"('levofloxacin', 'CHEMICAL')",5
+"('Acute myocardial infarction', 'DISEASE')",1
+"('upper gastrointestinal bleed', 'DISEASE')",1
+"('Quinine', 'CHEMICAL')",1
+"('gallstone pancreatitis', 'DISEASE')",1
+"('hyperlipidemia', 'DISEASE')",6
+"('spigastric tenderness', 'DISEASE')",1
+"('gallstone', 'DISEASE')",1
+"('cholecystitis', 'DISEASE')",4
+"('intrahepatic biliary ductal dilatation', 'DISEASE')",1
+"('CBD', 'CHEMICAL')",3
+"('opacified biliary', 'DISEASE')",1
+"('hepatic biliary ductal dilatation', 'DISEASE')",1
+"('pancreatitis', 'DISEASE')",3
+"('enlargement of the pancreas', 'DISEASE')",1
+"('panperitonitis', 'DISEASE')",1
+"('Cholelithiasis', 'DISEASE')",3
+"('Small ascites', 'DISEASE')",1
+"('pneumomediastinum', 'DISEASE')",1
+"('dialy', 'CHEMICAL')",1
+"('delirious', 'DISEASE')",1
+"('Haldol', 'CHEMICAL')",5
+"('Unasyn', 'CHEMICAL')",2
+"('VAP', 'CHEMICAL')",1
+"('PEG', 'CHEMICAL')",3
+"('Lipitor', 'CHEMICAL')",4
+"('Metformin', 'CHEMICAL')",9
+"('Gluconate', 'CHEMICAL')",1
+"('Mouthwash', 'CHEMICAL')",1
+"('Suppository', 'CHEMICAL')",2
+"('Nystatin', 'CHEMICAL')",2
+"('Famotidine', 'CHEMICAL')",4
+"('Ondansetron HCl', 'CHEMICAL')",1
+"('Magnesium Sulfate', 'CHEMICAL')",1
+"('Calcium Gluconate', 'CHEMICAL')",1
+"('Lorazepam', 'CHEMICAL')",5
+"('Gallstone pancreatitis', 'DISEASE')",1
+"('dry mouth', 'DISEASE')",2
+"('Dyspnea', 'DISEASE')",2
+"('obstructive lung disease', 'DISEASE')",1
+"('appetite', 'CHEMICAL')",1
+"('pursed lip', 'DISEASE')",1
+"('bronchiectasis', 'DISEASE')",2
+"('endometrial carcinoma s/p', 'DISEASE')",1
+"('Obstructive lung disease', 'DISEASE')",1
+"('Anxiety', 'DISEASE')",10
+"('BP:117/82', 'CHEMICAL')",1
+"('Normocephalic, temporal wasting', 'DISEASE')",1
+"('MM dry', 'DISEASE')",6
+"('telangiectasias', 'DISEASE')",1
+"('TYPE-ART TEMP-38.1 O2 FLOW-4', 'CHEMICAL')",1
+"('WBC-9.2', 'DISEASE')",1
+"('MONOS-3.3', 'DISEASE')",1
+"('SCREEN-FINAL', 'CHEMICAL')",1
+"('tachypnea', 'DISEASE')",5
+"('COPD flare/bronchitis', 'DISEASE')",1
+"('Coagulopathy', 'DISEASE')",2
+"('ativan', 'CHEMICAL')",8
+"('DISPO', 'CHEMICAL')",1
+"('q4h', 'CHEMICAL')",2
+"('Warfarin', 'CHEMICAL')",17
+"('Dyspepsia', 'DISEASE')",1
+"('Magnesium Hydroxide', 'CHEMICAL')",2
+"('Zolpidem', 'CHEMICAL')",6
+"('Triamcinolone Acetonide', 'CHEMICAL')",1
+"('Cream', 'CHEMICAL')",1
+"('Ketoconazole', 'CHEMICAL')",1
+"('Advair Diskus', 'CHEMICAL')",1
+"('days([**Date', 'DISEASE')",3
+"('Prochlorperazine Maleate', 'CHEMICAL')",2
+"('chronic lung disease', 'DISEASE')",2
+"('compazine', 'CHEMICAL')",1
+"('Sulfasalazine', 'CHEMICAL')",2
+"('weight gain', 'DISEASE')",7
+"('Corynebacterium Diptheria', 'DISEASE')",1
+"('LLL effusion', 'CHEMICAL')",1
+"('LLL', 'CHEMICAL')",4
+"('diltiazem', 'CHEMICAL')",11
+"('Ulcerative colitis s/p ileostomy', 'DISEASE')",2
+"('Prostate ca s/p XRT', 'DISEASE')",1
+"(""Paget's disease"", 'DISEASE')",2
+"('GERD', 'CHEMICAL')",4
+"('Esophageal ulcer', 'DISEASE')",2
+"('Bladder Cancer', 'DISEASE')",1
+"('prostate', 'DISEASE')",2
+"('Pulmonary Embolism', 'DISEASE')",1
+"('Hearing Loss', 'DISEASE')",1
+"('Melanoma', 'DISEASE')",2
+"('normoactive bowel sounds', 'DISEASE')",1
+"('RLE', 'CHEMICAL')",3
+"('WBC-10.9 RBC-3.58', 'DISEASE')",1
+"('Calcium-8.9 Phos-3.2', 'DISEASE')",1
+"('left basal effusion', 'DISEASE')",1
+"('Atelectasis', 'DISEASE')",3
+"('Spiriva', 'CHEMICAL')",5
+"('Atrovent', 'CHEMICAL')",4
+"('GI Bleed', 'DISEASE')",4
+"('spiriva', 'CHEMICAL')",3
+"('atrovent', 'CHEMICAL')",4
+"('dry throat', 'DISEASE')",1
+"('NSR', 'DISEASE')",13
+"('prerenal', 'DISEASE')",4
+"('metolazone', 'CHEMICAL')",2
+"('NPH', 'DISEASE')",8
+"('Skin Ulcer', 'DISEASE')",1
+"('Allevyn foam', 'DISEASE')",1
+"('Bicalutamide', 'CHEMICAL')",2
+"('Tiotropium Bromide', 'CHEMICAL')",6
+"('Ditropan', 'CHEMICAL')",1
+"('Ocuvite', 'CHEMICAL')",3
+"('Wellbutrin', 'CHEMICAL')",3
+"('Bupropion', 'CHEMICAL')",3
+"('HandiHaler', 'CHEMICAL')",2
+"('Diltiazem HCl', 'CHEMICAL')",2
+"('Procrit', 'CHEMICAL')",1
+"('Dextromethorphan Poly', 'CHEMICAL')",1
+"('Prostate cancer', 'DISEASE')",3
+"('Bladder cancer', 'DISEASE')",2
+"('Paget disease', 'DISEASE')",1
+"('GERD', 'DISEASE')",7
+"('stricture', 'DISEASE')",1
+"('Venous stasis', 'DISEASE')",1
+"('Pulmonary embolism', 'DISEASE')",2
+"('Hearing loss', 'DISEASE')",1
+"('Cough', 'DISEASE')",1
+"('esophageal adenocarcinoma', 'DISEASE')",2
+"('pericardiocentesis', 'DISEASE')",5
+"('cefepime', 'CHEMICAL')",6
+"('HTN, lung disease', 'DISEASE')",1
+"('esophageal cancer- Barrett', 'DISEASE')",1
+"('adenocarcinoma, s/p resection', 'DISEASE')",1
+"('tachy', 'DISEASE')",2
+"('adenosine', 'CHEMICAL')",1
+"('kidney stones', 'DISEASE')",1
+"('cataract', 'DISEASE')",1
+"('sclerae', 'DISEASE')",1
+"('CDI', 'DISEASE')",1
+"('UE edema', 'DISEASE')",1
+"('anterior pericardial effusion', 'DISEASE')",1
+"('Lucency', 'DISEASE')",1
+"('Compressive atelectasis', 'DISEASE')",1
+"('GI or bowel obstruction', 'DISEASE')",1
+"('Small nonobstructing stones', 'DISEASE')",1
+"('VIT B12', 'CHEMICAL')",2
+"('933', 'CHEMICAL')",2
+"('RET', 'DISEASE')",3
+"('Amylase-16', 'CHEMICAL')",1
+"('ALT-10', 'CHEMICAL')",1
+"('AlkPhos-66', 'CHEMICAL')",1
+"('O2-', 'CHEMICAL')",2
+"('Temp-37.4', 'CHEMICAL')",1
+"('Na 137', 'CHEMICAL')",1
+"('Glc', 'CHEMICAL')",1
+"('esophageal cancer', 'DISEASE')",5
+"('w/ chemo', 'CHEMICAL')",1
+"('bloody', 'DISEASE')",1
+"('anterior effusion', 'DISEASE')",1
+"('constrictive pericarditis', 'DISEASE')",1
+"('ibutilide', 'CHEMICAL')",3
+"('PTX', 'CHEMICAL')",1
+"('EP', 'CHEMICAL')",1
+"('chronic disease', 'DISEASE')",7
+"('vitamin B12', 'CHEMICAL')",1
+"('folate', 'CHEMICAL')",8
+"('metabolic alkalosis', 'DISEASE')",2
+"('magnesium', 'CHEMICAL')",7
+"('XRT', 'CHEMICAL')",1
+"('malignant effusion', 'DISEASE')",1
+"('Advair', 'CHEMICAL')",3
+"('KCl', 'CHEMICAL')",2
+"('Reglan', 'CHEMICAL')",5
+"('Cefepime', 'CHEMICAL')",1
+"('Terbinafine', 'CHEMICAL')",1
+"('Epogen', 'CHEMICAL')",1
+"('Magnesium', 'CHEMICAL')",4
+"('Enalapril', 'CHEMICAL')",1
+"('HD', 'CHEMICAL')",9
+"('w/', 'CHEMICAL')",3
+"('ESRD', 'DISEASE')",8
+"('paf', 'CHEMICAL')",2
+"('pulmonary aspergillosis', 'DISEASE')",3
+"('glomerulonephritis', 'DISEASE')",1
+"('HD qMWF', 'DISEASE')",1
+"('Amyloidosis', 'DISEASE')",1
+"('itraconazole', 'CHEMICAL')",2
+"('hyperkalemia', 'DISEASE')",2
+"('sinusitis', 'DISEASE')",3
+"('epistaxis', 'DISEASE')",1
+"('gynecomastia', 'DISEASE')",1
+"('renal osteodystrophy', 'DISEASE')",1
+"('disability', 'DISEASE')",1
+"('periorbital edema', 'DISEASE')",1
+"('lactatemia', 'DISEASE')",1
+"('End-stage renal disease', 'DISEASE')",1
+"('lactic', 'CHEMICAL')",1
+"('acidemia', 'DISEASE')",1
+"('aspergillomas', 'DISEASE')",1
+"('granulomatous infection', 'DISEASE')",1
+"('Sinus tachycardia', 'DISEASE')",2
+"('sinus tachycardia', 'DISEASE')",3
+"('atrial abnormality', 'DISEASE')",2
+"('debility', 'DISEASE')",1
+"('pleural thickening', 'DISEASE')",1
+"('calcification', 'DISEASE')",4
+"('atherosclerotic', 'DISEASE')",3
+"('sigmoid colon', 'DISEASE')",1
+"('Prostate', 'DISEASE')",1
+"('cystic\nrenal disease', 'DISEASE')",1
+"('polycystic kidney disease', 'DISEASE')",1
+"('HD, s/p multiple episodes of MRSA\nline sepsis', 'CHEMICAL')",1
+"('GPC', 'CHEMICAL')",1
+"('Endstage renal disease', 'DISEASE')",1
+"('GI abscess', 'DISEASE')",1
+"('tacrolimus', 'CHEMICAL')",3
+"('sevelamer', 'CHEMICAL')",1
+"('calcium acetate', 'CHEMICAL')",1
+"('vit D toxicity', 'CHEMICAL')",1
+"('vit D', 'CHEMICAL')",2
+"('# H/o pulm aspergillosis', 'DISEASE')",1
+"('insufficiency-', 'DISEASE')",1
+"('sertraline', 'CHEMICAL')",1
+"('thiamine', 'CHEMICAL')",6
+"('folic acid', 'CHEMICAL')",5
+"('Itraconazole', 'CHEMICAL')",2
+"('Calcium Acetate', 'CHEMICAL')",2
+"('Sertraline HCl', 'CHEMICAL')",1
+"('Tacrolimus', 'CHEMICAL')",6
+"('Sevelamer HCl', 'CHEMICAL')",1
+"('Lactulose', 'CHEMICAL')",12
+"('Sertraline', 'CHEMICAL')",2
+"('WED', 'DISEASE')",1
+"('FRI', 'CHEMICAL')",1
+"('sepsis/bacteremia', 'DISEASE')",1
+"('End-stage Renal Disease', 'DISEASE')",1
+"('Adrenal insufficiency', 'DISEASE')",1
+"('nausea,', 'DISEASE')",6
+"('cardiac arrest', 'DISEASE')",7
+"('idiopathic\ncardiomopathy', 'DISEASE')",1
+"('thump', 'DISEASE')",1
+"('pulseless', 'DISEASE')",4
+"('unasyn', 'CHEMICAL')",1
+"('Idiopathic dilated CM', 'DISEASE')",1
+"('LBBB\n\n', 'DISEASE')",1
+"('Sarcoidosis', 'DISEASE')",1
+"('Glaucoma', 'DISEASE')",5
+"('O2 sat=100', 'CHEMICAL')",1
+"('chest wall deformities', 'DISEASE')",3
+"('kyphosis', 'DISEASE')",3
+"('PHOS-58 TOT', 'CHEMICAL')",1
+"('Glucose', 'CHEMICAL')",6
+"('Na', 'CHEMICAL')",2
+"('Calcium', 'CHEMICAL')",5
+"('Phos', 'CHEMICAL')",1
+"('cephalosporins', 'CHEMICAL')",3
+"('Ventricular fibrillation', 'DISEASE')",3
+"('LBBB', 'CHEMICAL')",1
+"('Depressed', 'DISEASE')",1
+"('left ventricular hypokinesis', 'DISEASE')",1
+"('LV diastolic dysfunction', 'DISEASE')",1
+"('ventricular cardiomyopathy', 'DISEASE')",1
+"('diastolic dysfunction', 'DISEASE')",2
+"('pulmonary artery pressures', 'DISEASE')",1
+"('encephalopathy', 'DISEASE')",8
+"('metabolic disturbances', 'DISEASE')",1
+"('Propofol', 'CHEMICAL')",1
+"('anoxic', 'DISEASE')",1
+"('lacunes', 'DISEASE')",1
+"('ventriculomegaly', 'DISEASE')",2
+"('herniation', 'DISEASE')",4
+"('idiopathic\ncardiomyopathy', 'DISEASE')",1
+"('vfib arrest', 'DISEASE')",1
+"('cefazolin', 'CHEMICAL')",3
+"('cefalexin', 'CHEMICAL')",1
+"('haldol', 'CHEMICAL')",5
+"('idiopathic cardiomyopathy', 'DISEASE')",1
+"('cardiomyopathy', 'DISEASE')",3
+"('losartan', 'CHEMICAL')",3
+"('carvediolol', 'CHEMICAL')",1
+"('oxytoca', 'DISEASE')",1
+"('scopolamine', 'CHEMICAL')",1
+"('metformin', 'CHEMICAL')",9
+"('Ibuprofen', 'CHEMICAL')",9
+"('Cosopt', 'CHEMICAL')",2
+"('Versed', 'CHEMICAL')",1
+"('Vancomycin 1G [**Hospital1 **]', 'CHEMICAL')",1
+"('Azithromycin', 'CHEMICAL')",5
+"('Cosopt 2-0.5', 'CHEMICAL')",1
+"('Haloperidol', 'CHEMICAL')",3
+"('Benzocaine', 'CHEMICAL')",1
+"('Losartan', 'CHEMICAL')",1
+"('idiopathic Chronic systolic heart failure', 'DISEASE')",1
+"('arrythmia', 'DISEASE')",1
+"('vein thrombosis', 'DISEASE')",2
+"('neck pain', 'DISEASE')",2
+"('phonophobia', 'DISEASE')",1
+"('neck stiffness', 'DISEASE')",1
+"('itching', 'DISEASE')",2
+"('Ceftriaxone', 'CHEMICAL')",4
+"('urinary retention', 'DISEASE')",3
+"('petichiae', 'DISEASE')",1
+"('Anicteric sclerae', 'DISEASE')",1
+"('acute cardiopulmonary disease', 'DISEASE')",1
+"('extra-axial hemorrhage', 'DISEASE')",1
+"('canal stenosis', 'DISEASE')",1
+"('cauda equina', 'DISEASE')",1
+"('meningeal infection', 'DISEASE')",2
+"('atrial flutter', 'DISEASE')",1
+"('2:1', 'CHEMICAL')",1
+"('retroperitoneal lymphadenopathy', 'DISEASE')",1
+"('appendicitis', 'DISEASE')",5
+"('tuberculosis', 'DISEASE')",2
+"('meningitis/encephalitis', 'DISEASE')",1
+"('bacterial meningitis', 'DISEASE')",2
+"('abdominal tenderness', 'DISEASE')",1
+"('Acyclovir', 'CHEMICAL')",2
+"('INH', 'CHEMICAL')",1
+"('pyrazinamide', 'CHEMICAL')",1
+"('pyridoxine', 'CHEMICAL')",1
+"('Rifampin', 'CHEMICAL')",8
+"('Ethambutol', 'CHEMICAL')",2
+"('Dexamethasone', 'CHEMICAL')",4
+"('CNIII deficits', 'DISEASE')",1
+"('palsy', 'DISEASE')",3
+"('TB meningitis', 'DISEASE')",1
+"('paraplegia', 'DISEASE')",1
+"('ill', 'DISEASE')",1
+"('Sensations', 'DISEASE')",1
+"('incontinence', 'DISEASE')",2
+"('aggressive bowel regimen', 'DISEASE')",2
+"('meningeal irritation', 'DISEASE')",1
+"('Dex', 'CHEMICAL')",1
+"('Abdominal Pain', 'DISEASE')",1
+"('nausea/vomiting', 'DISEASE')",1
+"('lactulose', 'CHEMICAL')",9
+"('TB enteritis', 'DISEASE')",1
+"('appendiceal obstruction', 'DISEASE')",1
+"('conus syndrome', 'DISEASE')",1
+"('Tachycardia', 'DISEASE')",2
+"('headaches', 'DISEASE')",2
+"('Ativan', 'CHEMICAL')",4
+"('salt', 'CHEMICAL')",2
+"('wasting', 'DISEASE')",1
+"('LE weakness', 'DISEASE')",1
+"('Isoniazid', 'CHEMICAL')",1
+"('Heparin Sodium', 'CHEMICAL')",2
+"('Pyrazinamide', 'CHEMICAL')",1
+"('Pyridoxine', 'CHEMICAL')",1
+"('Meningitis', 'DISEASE')",1
+"('Lower extremity weakness', 'DISEASE')",1
+"('dexamethasone', 'CHEMICAL')",1
+"('s/p fall\n\n', 'DISEASE')",1
+"('s/p assault multiple', 'DISEASE')",1
+"('contusions', 'DISEASE')",1
+"('narcan', 'CHEMICAL')",1
+"('etomidate', 'CHEMICAL')",1
+"('choline', 'CHEMICAL')",1
+"('valium', 'CHEMICAL')",4
+"('propofol', 'CHEMICAL')",2
+"('doxepin', 'CHEMICAL')",1
+"('slurred speech', 'DISEASE')",1
+"('injuries', 'DISEASE')",2
+"('Heroin', 'CHEMICAL')",1
+"('EtOH abuse', 'DISEASE')",1
+"('OP bloody', 'CHEMICAL')",1
+"('abrasions', 'DISEASE')",2
+"('fractures', 'DISEASE')",5
+"('ligamentous injury', 'DISEASE')",1
+"('EtoH abuse/withdrawal', 'CHEMICAL')",1
+"('Trauma', 'DISEASE')",2
+"('amphetamines', 'CHEMICAL')",1
+"('naprosyn', 'CHEMICAL')",1
+"('Hepatitis', 'DISEASE')",1
+"('hemoconcentration', 'DISEASE')",1
+"('N/V', 'DISEASE')",1
+"('Nicotine', 'CHEMICAL')",4
+"('Psychiatric', 'DISEASE')",3
+"('Doxepin', 'CHEMICAL')",1
+"('Naproxen', 'CHEMICAL')",3
+"('s/p trauma', 'DISEASE')",1
+"('Hepatitis B', 'DISEASE')",1
+"('Substance abuse', 'DISEASE')",1
+"('pericardial AVR', 'DISEASE')",1
+"('AVR', 'CHEMICAL')",1
+"('LAD disease', 'DISEASE')",1
+"('hypoxic respiratory failure', 'DISEASE')",1
+"('cardiogenic shock', 'DISEASE')",2
+"('Gout', 'DISEASE')",5
+"('Migraines', 'DISEASE')",2
+"('hernia', 'DISEASE')",4
+"('mildly reduced LV systolic\nfunction.', 'DISEASE')",1
+"('annular calcification', 'DISEASE')",1
+"('CHF decompensation', 'DISEASE')",1
+"('septic shock', 'DISEASE')",1
+"('Septic shock', 'DISEASE')",1
+"('AV endocarditis', 'DISEASE')",1
+"('Aztreonam', 'CHEMICAL')",1
+"('HAP', 'CHEMICAL')",1
+"('levo', 'CHEMICAL')",1
+"('Cortisol', 'CHEMICAL')",1
+"('Hypoxic respiratory failure', 'DISEASE')",1
+"('Vanc/Aztreonam', 'CHEMICAL')",1
+"('acute pulmonary edema', 'DISEASE')",1
+"('Ischemia', 'DISEASE')",1
+"('statins', 'CHEMICAL')",1
+"('guaiac+', 'CHEMICAL')",1
+"('diverticulosis', 'DISEASE')",3
+"('Calcitrol', 'CHEMICAL')",1
+"('Calcitriol', 'CHEMICAL')",2
+"('poundsin', 'CHEMICAL')",1
+"('Darvon', 'CHEMICAL')",1
+"('AMS', 'DISEASE')",4
+"('active GI bleeding', 'DISEASE')",1
+"('Rifaximin', 'CHEMICAL')",5
+"('Zyprexa', 'CHEMICAL')",9
+"('hepatic encephalopathy', 'DISEASE')",3
+"('nalaxone', 'CHEMICAL')",1
+"('tract infection', 'DISEASE')",1
+"('s/p TIPS', 'DISEASE')",2
+"('gastropathy', 'DISEASE')",4
+"('Sigmoid diverticulosis', 'DISEASE')",3
+"('duodenitis', 'DISEASE')",4
+"('Psychotic disorder', 'DISEASE')",2
+"('olanzapine', 'CHEMICAL')",5
+"('polysubstance abuse', 'DISEASE')",1
+"('temporal lobe epilepsy', 'DISEASE')",1
+"('variceal rupture s/p hematoma', 'DISEASE')",1
+"('Fractures', 'DISEASE')",1
+"('pubic', 'CHEMICAL')",1
+"('drug abuse', 'DISEASE')",2
+"('schizophrenia', 'DISEASE')",1
+"('epilepsy', 'DISEASE')",1
+"('jaundice', 'DISEASE')",2
+"('COUNT-140', 'CHEMICAL')",1
+"('K-4.7', 'CHEMICAL')",2
+"('substance abuse', 'DISEASE')",1
+"('U/A', 'CHEMICAL')",1
+"('naloxone', 'CHEMICAL')",1
+"('rifaximin', 'CHEMICAL')",3
+"('hypovolemic', 'DISEASE')",1
+"('Urinary Tract Infection', 'DISEASE')",3
+"('Cirrhosis', 'DISEASE')",3
+"('HCV cirrhosis', 'DISEASE')",1
+"('portal gastropathy', 'DISEASE')",2
+"('ursodiol', 'CHEMICAL')",2
+"('Seizure disorder', 'DISEASE')",1
+"('Levetiracetam', 'CHEMICAL')",4
+"('psychosis', 'DISEASE')",1
+"('Milk of Magnesia Oral\n3.', 'DISEASE')",1
+"('Ursodiol', 'CHEMICAL')",3
+"('Olanzapine', 'CHEMICAL')",4
+"('q6h', 'CHEMICAL')",3
+"('Aranesp', 'CHEMICAL')",2
+"('Polysorbate', 'CHEMICAL')",2
+"('mcg/mL', 'CHEMICAL')",1
+"('Titrate', 'CHEMICAL')",1
+"('Calcium Carbonate', 'CHEMICAL')",12
+"('Cholecalciferol', 'CHEMICAL')",5
+"('Vitamin D3', 'CHEMICAL')",5
+"('Milk of Magnesia 400 mg/5', 'DISEASE')",1
+"('Encephalopathy', 'DISEASE')",1
+"('Acute Renal Failure\nUrinary Tract Infection', 'DISEASE')",1
+"('Iron deficiency', 'DISEASE')",5
+"('H/o recurrent GI bleed', 'DISEASE')",1
+"('Duodenal polyps', 'DISEASE')",1
+"('MGUS', 'DISEASE')",1
+"('Polysubstance abuse', 'DISEASE')",1
+"('Temporal lobe epilepsy', 'DISEASE')",1
+"('acute renal failure', 'DISEASE')",3
+"('confusion', 'DISEASE')",10
+"('R humerus fracture', 'DISEASE')",3
+"('LLE swelling DVT', 'CHEMICAL')",2
+"('LLE swelling', 'CHEMICAL')",1
+"('right humerus fracture', 'DISEASE')",1
+"('NANI', 'CHEMICAL')",2
+"('acute stroke', 'DISEASE')",1
+"('infarcts', 'DISEASE')",3
+"('frontal lobe hemorrhage', 'DISEASE')",1
+"('contusion', 'DISEASE')",1
+"('small-vessel ischemic disease', 'DISEASE')",1
+"('non-bloody diarrhea', 'DISEASE')",1
+"('Denies rashes or skin', 'DISEASE')",1
+"('left humerus fracture', 'DISEASE')",1
+"('infarct', 'DISEASE')",7
+"('cataracts', 'DISEASE')",2
+"('dry MM', 'DISEASE')",4
+"('Bilirubin', 'CHEMICAL')",1
+"('Optiray', 'CHEMICAL')",2
+"('occlusive', 'DISEASE')",1
+"('ground-glass opacity', 'DISEASE')",1
+"('compression deformity', 'DISEASE')",1
+"('Compression deformities of T12 and T9, while chronic\nappearing, no\ncomparison study', 'DISEASE')",1
+"('intraventricular hemorrhage', 'DISEASE')",1
+"('subarachnoid hemorrhage', 'DISEASE')",2
+"('traumatic subarachnoid', 'DISEASE')",1
+"('pulmonary embolus', 'DISEASE')",1
+"('hypodensities', 'DISEASE')",2
+"('callus', 'CHEMICAL')",1
+"('SAH', 'DISEASE')",3
+"('lower extremity DVT', 'DISEASE')",1
+"('Hypercoagulable', 'DISEASE')",1
+"('Intra-ventricular hemorrhage', 'DISEASE')",1
+"('chronic disease/inflammation', 'DISEASE')",1
+"('Hypertensive', 'DISEASE')",1
+"('simvastatin 40mg', 'CHEMICAL')",1
+"('Zocor', 'CHEMICAL')",6
+"('Remeron', 'CHEMICAL')",5
+"('simvastatin 40 mg Tablet', 'CHEMICAL')",2
+"('Enema', 'CHEMICAL')",3
+"('enema', 'DISEASE')",1
+"('Milk of Magnesia 400 mg/5 mL Suspension Sig', 'DISEASE')",1
+"('magnesium oxide', 'CHEMICAL')",1
+"('Pulmonary embolus', 'DISEASE')",1
+"('Subarachnoid hemorrhage', 'DISEASE')",1
+"('Interventricular hemorrhage', 'DISEASE')",1
+"('left leg swelling', 'DISEASE')",1
+"('head bleed', 'DISEASE')",1
+"('Vitamin D', 'CHEMICAL')",5
+"('gastrointestinal\nbleed', 'DISEASE')",2
+"('peptic ulcer', 'DISEASE')",3
+"('guaiac-positive stools', 'DISEASE')",1
+"('asthma', 'CHEMICAL')",1
+"('psychotic seizures', 'DISEASE')",1
+"('obtunded', 'DISEASE')",1
+"('Clindamycin', 'CHEMICAL')",1
+"('Chronic constipation', 'DISEASE')",1
+"(""Barrett's esophagus"", 'DISEASE')",2
+"('guaiac-positive', 'DISEASE')",2
+"('esophagitis', 'DISEASE')",9
+"('psychotic', 'DISEASE')",1
+"('Iron-deficiency anemia', 'DISEASE')",1
+"('DJD', 'DISEASE')",3
+"('Accolate', 'CHEMICAL')",1
+"('b.i.d', 'CHEMICAL')",11
+"('Carafate', 'CHEMICAL')",3
+"('Colace 100 t.i.d', 'CHEMICAL')",1
+"('Flovent', 'CHEMICAL')",4
+"('Protonix', 'CHEMICAL')",2
+"('Serax', 'CHEMICAL')",1
+"('Serevent', 'CHEMICAL')",1
+"('Vitamin C.', 'CHEMICAL')",1
+"('Niferex', 'CHEMICAL')",1
+"('nodularity', 'DISEASE')",1
+"('Barrett', 'DISEASE')",1
+"('q.i.d', 'CHEMICAL')",3
+"('Hypokalemia', 'DISEASE')",1
+"('guaiac-negative', 'DISEASE')",1
+"('dilated cardiomyopathy', 'DISEASE')",1
+"('congestive heart\nfailure between [**12/2101**] and [**6-6**] and did reasonably well for\napproximately 6-8 weeks in regimen of', 'DISEASE')",1
+"('Hydralazine', 'CHEMICAL')",2
+"('obstructive sleep apnea', 'DISEASE')",1
+"('aortic aneurysm', 'DISEASE')",3
+"('obstructive central mixed sleep', 'DISEASE')",1
+"('apnea', 'DISEASE')",1
+"('Probenecid', 'CHEMICAL')",3
+"('Vitamin E 400', 'CHEMICAL')",2
+"('Spironolactone', 'CHEMICAL')",5
+"('Colchicine', 'CHEMICAL')",5
+"('Lescol', 'CHEMICAL')",1
+"('anorexia', 'DISEASE')",1
+"('atrial enlargement', 'DISEASE')",2
+"('Milrinone', 'CHEMICAL')",3
+"('mcg/minute', 'CHEMICAL')",1
+"('loose bowel movements', 'DISEASE')",2
+"('Insomnia', 'DISEASE')",2
+"('Trazodone', 'CHEMICAL')",3
+"('Effexor', 'CHEMICAL')",4
+"('Vitamin E', 'CHEMICAL')",1
+"('Sulfate', 'CHEMICAL')",1
+"('Dilated cardiomyopathy', 'DISEASE')",1
+"('Renal insufficiency', 'DISEASE')",1
+"('Metamucil', 'CHEMICAL')",1
+"('q.h.s', 'CHEMICAL')",5
+"('Magnesium oxide', 'CHEMICAL')",1
+"('DM type 2', 'CHEMICAL')",3
+"('TMA', 'DISEASE')",4
+"('hypoglycemic', 'DISEASE')",1
+"('hemolysis', 'DISEASE')",3
+"('retinal hemorrhage', 'DISEASE')",2
+"('Peripheral vascular disease s/p right TMA', 'DISEASE')",2
+"('Polyneuropathy', 'DISEASE')",2
+"('NA', 'CHEMICAL')",3
+"('purulent', 'DISEASE')",2
+"('DCD', 'CHEMICAL')",1
+"('MMF', 'CHEMICAL')",2
+"('DM2', 'DISEASE')",3
+"('B12', 'CHEMICAL')",12
+"('leukopenia', 'DISEASE')",1
+"('myelosuppression', 'DISEASE')",1
+"('Ezetimibe', 'CHEMICAL')",1
+"('DM type 2: His oral regimen', 'CHEMICAL')",1
+"('Calcium carbonate', 'CHEMICAL')",2
+"('Rosiglitazone', 'CHEMICAL')",2
+"('Mycophenolate mofetil', 'CHEMICAL')",1
+"('Cholecalciferol 400', 'CHEMICAL')",1
+"('Ca carbonate', 'CHEMICAL')",1
+"('Bactrim SS', 'CHEMICAL')",1
+"('Zetia', 'CHEMICAL')",3
+"('Mycophenolate Mofetil', 'CHEMICAL')",1
+"('Psyllium', 'CHEMICAL')",1
+"('Wafer', 'CHEMICAL')",1
+"('Simvastatin 10 mg', 'CHEMICAL')",2
+"('DPM', 'CHEMICAL')",1
+"('firstname', 'DISEASE')",3
+"('tacrolimas', 'DISEASE')",1
+"('prostate ca s/p suprapubic catheter', 'DISEASE')",1
+"('bad name', 'DISEASE')",1
+"('anger', 'DISEASE')",1
+"('delirium/psychosis', 'DISEASE')",1
+"('nausea or vomiting', 'DISEASE')",3
+"('pelvic pain', 'DISEASE')",2
+"('Restless Leg Syndrome', 'DISEASE')",1
+"('Urinary Incontinence s/p suprapubic tube placement', 'DISEASE')",1
+"('Delirium', 'DISEASE')",2
+"('Calcification', 'DISEASE')",1
+"('extrahepatic biliary ductal dilation', 'DISEASE')",1
+"('paranoid', 'DISEASE')",1
+"('Left anterior fascicular block', 'DISEASE')",1
+"('catheter infection', 'DISEASE')",1
+"('Pelvic pain', 'DISEASE')",1
+"('Troponins', 'CHEMICAL')",2
+"('Pulseless arrest', 'DISEASE')",1
+"('Zydis Zyprexa', 'CHEMICAL')",1
+"('arrest', 'DISEASE')",2
+"('Dementia', 'DISEASE')",5
+"('zyprexa', 'CHEMICAL')",1
+"('microvascular ischemia', 'DISEASE')",1
+"('dementia', 'DISEASE')",10
+"('iron deficiency', 'DISEASE')",2
+"('Vit B12', 'CHEMICAL')",1
+"('Brimonidine', 'CHEMICAL')",2
+"('Travoprost', 'CHEMICAL')",1
+"('Vitamin C', 'CHEMICAL')",1
+"('Actonel', 'CHEMICAL')",1
+"('Lidocaine', 'CHEMICAL')",4
+"('Capcacin cream', 'CHEMICAL')",1
+"('q8h', 'CHEMICAL')",2
+"('delirium', 'DISEASE')",4
+"('glaucoma', 'DISEASE')",3
+"('prostate cancer', 'DISEASE')",4
+"('4094', 'CHEMICAL')",1
+"('ICH', 'DISEASE')",1
+"('vitamin K', 'CHEMICAL')",1
+"('FFP', 'CHEMICAL')",2
+"('mannitol', 'CHEMICAL')",2
+"('dilantin', 'CHEMICAL')",1
+"('coronary artery disease s/p', 'DISEASE')",1
+"('chronic obstructive pulmonary disease', 'DISEASE')",5
+"('abnormal movements', 'DISEASE')",1
+"('tremors', 'DISEASE')",1
+"('Coags', 'DISEASE')",2
+"('pH-7.31', 'CHEMICAL')",1
+"('brain stem hemorrhage', 'DISEASE')",1
+"('intracerebral hemorrhage', 'DISEASE')",1
+"('coma', 'DISEASE')",1
+"('DDAVP', 'CHEMICAL')",2
+"('Intracerebral hemorrhage', 'DISEASE')",1
+"('Cardiac arrest', 'DISEASE')",1
+"('H/o tobacco', 'DISEASE')",1
+"('orthostatic', 'DISEASE')",2
+"('tachypnic', 'DISEASE')",1
+"('metabolic\nabnormalities', 'DISEASE')",1
+"('fluticasone', 'CHEMICAL')",2
+"('Amiodarone HCl', 'CHEMICAL')",1
+"('metabolic abnormalities', 'DISEASE')",1
+"('viral infection', 'DISEASE')",1
+"('Flagyll', 'CHEMICAL')",1
+"('dyspena', 'DISEASE')",1
+"('atelectatic', 'DISEASE')",2
+"('Right renal lesions', 'DISEASE')",1
+"('Prostatic enlargement', 'DISEASE')",1
+"('fluticasone propionate', 'CHEMICAL')",1
+"('microcytic anemia', 'DISEASE')",1
+"('Cyanocobalamin', 'CHEMICAL')",3
+"('Enoxaparin', 'CHEMICAL')",1
+"('gait disturbance', 'DISEASE')",5
+"('hydrocephalus', 'DISEASE')",10
+"('ventricle lipoma', 'DISEASE')",1
+"('gait disturbances', 'DISEASE')",1
+"('NQWMI', 'DISEASE')",1
+"('HSV encephalitis', 'DISEASE')",1
+"('acyclovir', 'CHEMICAL')",2
+"('colelithiasis', 'DISEASE')",1
+"('left frontal stroke', 'DISEASE')",1
+"('callosum lipoma', 'DISEASE')",1
+"('HIT', 'DISEASE')",2
+"('PUD', 'DISEASE')",2
+"('particular weakness', 'DISEASE')",1
+"('dysmetria', 'DISEASE')",1
+"('ventricular enlargement', 'DISEASE')",1
+"('frontal lobe infarction', 'DISEASE')",1
+"('T2 abnormalities', 'DISEASE')",1
+"('microvascular infarctions', 'DISEASE')",1
+"('NPH', 'CHEMICAL')",2
+"('left sided weakness', 'DISEASE')",2
+"('r/o fracture', 'DISEASE')",1
+"('right lacunar infarct', 'DISEASE')",1
+"('vasculitis', 'DISEASE')",2
+"('bladder cancer', 'DISEASE')",5
+"('lipitor', 'CHEMICAL')",1
+"('Oxycodone HCl', 'CHEMICAL')",1
+"('Leg pain', 'DISEASE')",1
+"('CVA', 'DISEASE')",1
+"('vertigo', 'DISEASE')",2
+"('sudden weakness', 'DISEASE')",1
+"('dry cough', 'DISEASE')",1
+"('Ampicillin', 'CHEMICAL')",3
+"('Azithro', 'CHEMICAL')",1
+"('truvada', 'CHEMICAL')",2
+"('infarcts, ascites', 'DISEASE')",1
+"('cord compression/spinal stenosis w/', 'DISEASE')",1
+"('pylori', 'DISEASE')",2
+"('pancytopenia', 'DISEASE')",1
+"('Type II DM', 'DISEASE')",1
+"('thrush', 'DISEASE')",4
+"('TTP', 'DISEASE')",3
+"('atheroma', 'DISEASE')",4
+"('Trace aortic regurgitation', 'DISEASE')",2
+"('bileaflet mitral valve prosthesis', 'DISEASE')",1
+"('thombus', 'DISEASE')",1
+"('dehiscence', 'DISEASE')",1
+"('cystic lesion', 'DISEASE')",1
+"('liver lesions', 'DISEASE')",1
+"('Dieulafoy lesion', 'DISEASE')",2
+"('hypertensive gastropathy', 'DISEASE')",1
+"('esophageal varices', 'DISEASE')",3
+"('Erythema', 'DISEASE')",4
+"('venous outflow obstruction', 'DISEASE')",1
+"('fibrosis', 'DISEASE')",2
+"('chronic GI bleeding', 'DISEASE')",1
+"('Endocarditis', 'DISEASE')",3
+"('PCN', 'CHEMICAL')",1
+"('Gentamicin', 'CHEMICAL')",2
+"('streptomycin', 'CHEMICAL')",1
+"('ampicillin', 'CHEMICAL')",5
+"('infectious disease', 'DISEASE')",2
+"(""Dieulafoy's ulcer"", 'DISEASE')",1
+"('chronic renal failure', 'DISEASE')",3
+"('Chronic renal failure', 'DISEASE')",1
+"('afterload reduction', 'DISEASE')",1
+"('spironolactone', 'CHEMICAL')",14
+"('Ascites', 'DISEASE')",2
+"('liver cirrhosis', 'DISEASE')",1
+"('HIV cholestasis', 'DISEASE')",1
+"('primary biliary cirrhosis', 'DISEASE')",1
+"('auto-immune hepatitis', 'DISEASE')",1
+"('primary liver process', 'DISEASE')",1
+"('carcinomatosis', 'DISEASE')",2
+"('Pseudogout', 'DISEASE')",1
+"('left knee pain', 'DISEASE')",1
+"('calcium pyrophosphate', 'CHEMICAL')",1
+"('pseudogout', 'DISEASE')",1
+"('septic arthritis', 'DISEASE')",2
+"('colchicine', 'CHEMICAL')",3
+"('renal\nfailure', 'DISEASE')",1
+"('embolus', 'DISEASE')",1
+"('thiazolidenediones', 'CHEMICAL')",1
+"('fluid retention', 'DISEASE')",1
+"('sulfonylurea', 'CHEMICAL')",1
+"('glyburide', 'CHEMICAL')",4
+"('upper GI bleeding', 'DISEASE')",1
+"('artery disease', 'DISEASE')",1
+"('SVG', 'CHEMICAL')",4
+"('cardiac death', 'DISEASE')",1
+"('lower extremity edema', 'DISEASE')",1
+"('buttock', 'DISEASE')",1
+"('PTCA', 'CHEMICAL')",2
+"('LCx', 'CHEMICAL')",1
+"('Vein->Ramus', 'CHEMICAL')",1
+"('Aortic stenosis', 'DISEASE')",3
+"('Chronic renal insufficiency', 'DISEASE')",1
+"('Colon Cancer', 'DISEASE')",1
+"('O2 sat=', 'CHEMICAL')",1
+"('bibasilar rales', 'DISEASE')",1
+"('pitting edema', 'DISEASE')",1
+"('Sat 96%RA', 'CHEMICAL')",1
+"('WBC-8.4', 'CHEMICAL')",1
+"('pH-7.0', 'CHEMICAL')",1
+"('interstitial lung disease', 'DISEASE')",2
+"('hypokinesis of the inferior', 'DISEASE')",1
+"('pulmonary arterial systolic', 'DISEASE')",1
+"('left ventricular hypertrophy', 'DISEASE')",1
+"('Systolic congestive heart failure', 'DISEASE')",2
+"('peripheral and pulmonary edema', 'DISEASE')",1
+"('milrinone', 'CHEMICAL')",10
+"('spironalactone', 'CHEMICAL')",1
+"('torsemide', 'CHEMICAL')",5
+"('ventricular thrombus', 'DISEASE')",3
+"('Acute kidney injury', 'DISEASE')",1
+"('overdiuresis', 'DISEASE')",1
+"('nephrotoxins', 'CHEMICAL')",1
+"('polyps', 'DISEASE')",1
+"('clopidogrel', 'CHEMICAL')",2
+"('low-dose aspirin', 'CHEMICAL')",1
+"('rosuvastatin', 'CHEMICAL')",4
+"('Atrial fibrillation/flutter', 'DISEASE')",3
+"('metoprolol succinate', 'CHEMICAL')",3
+"('diabetic\nretionopathy with likely nephropathy', 'DISEASE')",1
+"('diabetic', 'DISEASE')",1
+"('pantoprazole', 'CHEMICAL')",6
+"('Metoprolol succinate', 'CHEMICAL')",1
+"('Rosuvastatin', 'CHEMICAL')",2
+"('Ventolin aerosol 2 puffs', 'CHEMICAL')",1
+"('albuterol sulfate', 'CHEMICAL')",4
+"('tiotropium bromide', 'CHEMICAL')",3
+"('chronic renal insufficiency', 'DISEASE')",1
+"('Microcytic anemia', 'DISEASE')",2
+"('reflux disease', 'DISEASE')",1
+"('isosorbide mononitrate', 'CHEMICAL')",2
+"('Shortness of Breath', 'DISEASE')",1
+"('solumedrol', 'CHEMICAL')",3
+"('levofloxacin w/', 'CHEMICAL')",1
+"('obstructive defect', 'DISEASE')",1
+"('Crohn??????s disease', 'DISEASE')",1
+"('Steroid-induced NIDDM', 'DISEASE')",1
+"('Peripheral Neuropathy', 'DISEASE')",1
+"('Chest cancer', 'DISEASE')",1
+"('NEUTS-63.6 LYMPHS-29.2', 'CHEMICAL')",1
+"('CK(CPK)-140', 'CHEMICAL')",1
+"('tachypnia', 'DISEASE')",1
+"('hypercarbic', 'DISEASE')",1
+"('respiratory failure', 'DISEASE')",1
+"('O2\nsaturations ranging from 97-100', 'CHEMICAL')",1
+"('montelukast', 'CHEMICAL')",2
+"('acute coronary syndrome', 'DISEASE')",1
+"('bronchospastic', 'DISEASE')",1
+"('ACEi', 'CHEMICAL')",7
+"('aortic stenosis- Pt', 'DISEASE')",1
+"('Steroid', 'CHEMICAL')",1
+"('diabetes mellitus- Pt', 'DISEASE')",1
+"('lactic acidosis', 'DISEASE')",1
+"('cardiac ischemia', 'DISEASE')",3
+"('erythromycin ointment qid', 'CHEMICAL')",1
+"(""Crohn's disease- Stable Pt"", 'DISEASE')",1
+"('mesalamine', 'CHEMICAL')",1
+"('Prozac', 'CHEMICAL')",1
+"('Glucophage', 'CHEMICAL')",5
+"('Hytrin', 'CHEMICAL')",1
+"('Asacol', 'CHEMICAL')",1
+"('Clonazepam', 'CHEMICAL')",2
+"('Erythromycin', 'CHEMICAL')",3
+"('oint', 'CHEMICAL')",1
+"('Ipratropium bromide', 'CHEMICAL')",1
+"('Mesalamine', 'CHEMICAL')",5
+"('Montelukast sodium', 'CHEMICAL')",1
+"('Montelukast Sodium', 'CHEMICAL')",1
+"('Dextromethorphan-Guaifenesin 10-100 mg/5', 'CHEMICAL')",4
+"('s/p NSTEMI', 'DISEASE')",1
+"('5265', 'CHEMICAL')",1
+"('Procainamide', 'CHEMICAL')",1
+"('Niacin', 'CHEMICAL')",2
+"('CML', 'DISEASE')",4
+"('gleevec', 'CHEMICAL')",3
+"('neupogen', 'CHEMICAL')",1
+"('chronic myelogenous leukemia', 'DISEASE')",1
+"('Gleevec', 'CHEMICAL')",7
+"('quinidine', 'CHEMICAL')",1
+"('Lumbar disc disease', 'DISEASE')",1
+"('LV thrombus', 'DISEASE')",1
+"('akinetic', 'DISEASE')",1
+"('LV hypokinesis', 'DISEASE')",1
+"('leukemia/lymphoma', 'DISEASE')",1
+"('chronic renal disease', 'DISEASE')",1
+"('CML', 'CHEMICAL')",1
+"('Venlafaxine', 'CHEMICAL')",1
+"('Fluvastatin', 'CHEMICAL')",1
+"('Imatinib', 'CHEMICAL')",1
+"('Tramadol', 'CHEMICAL')",5
+"('allergies', 'DISEASE')",1
+"('Denies cp/n/v/d/abd pain/urinary/bowel symptoms', 'DISEASE')",1
+"('migraines', 'DISEASE')",1
+"('ptsd', 'DISEASE')",1
+"('fibromyalgia', 'DISEASE')",1
+"('optic neuritis', 'DISEASE')",1
+"('sexual abuse', 'DISEASE')",1
+"('O2 FLOW-2', 'CHEMICAL')",1
+"('Rhinocort', 'CHEMICAL')",2
+"('Amoxicillin', 'CHEMICAL')",3
+"('protonix', 'CHEMICAL')",9
+"('famotidine', 'CHEMICAL')",2
+"('respiratory alkalosis', 'DISEASE')",1
+"('metabolic acidosis', 'DISEASE')",1
+"('-prophylaxis', 'CHEMICAL')",1
+"('celebrex', 'CHEMICAL')",1
+"('Non-Aerosol', 'CHEMICAL')",2
+"('Disp:*36 Tablet(s', 'DISEASE')",1
+"('Sinusitis', 'DISEASE')",1
+"('Gastroesophageal reflux disease', 'DISEASE')",1
+"('stress disorder', 'DISEASE')",1
+"('Legal blindness', 'DISEASE')",1
+"('adenocarcioma', 'DISEASE')",1
+"('troponins', 'CHEMICAL')",1
+"('non-small cell lung cancer', 'DISEASE')",1
+"('adenocarcinoma', 'DISEASE')",1
+"('carboplatin', 'CHEMICAL')",1
+"('paclitaxel', 'CHEMICAL')",1
+"('CIA', 'DISEASE')",1
+"('angioplasty', 'DISEASE')",1
+"('lower extremity claudication', 'DISEASE')",1
+"('S/p', 'DISEASE')",2
+"('throat cancer', 'DISEASE')",1
+"('coronary disease', 'DISEASE')",1
+"('ALBUMIN-3.2', 'CHEMICAL')",1
+"('scan/angio', 'CHEMICAL')",1
+"('ischemic colitis', 'DISEASE')",1
+"('Mirtazapine', 'CHEMICAL')",3
+"('Nifedipine', 'CHEMICAL')",2
+"('OxyContin', 'CHEMICAL')",2
+"('Ondansetron', 'CHEMICAL')",2
+"('Megestrol 400 mg/10', 'CHEMICAL')",1
+"('Bacteremia', 'DISEASE')",1
+"('Cancer', 'DISEASE')",1
+"('bone pain', 'DISEASE')",2
+"('Megace', 'CHEMICAL')",1
+"('Megestrol', 'CHEMICAL')",1
+"('Dobutamine', 'CHEMICAL')",1
+"('Adenosine', 'CHEMICAL')",1
+"('upper respiratory infection', 'DISEASE')",1
+"('left shin cellulitis', 'DISEASE')",2
+"('Restless leg syndrome', 'DISEASE')",2
+"('O2 sat:95/RA', 'CHEMICAL')",1
+"('venous stasis', 'DISEASE')",2
+"('thrombosis', 'DISEASE')",2
+"('Carotid Bruit', 'DISEASE')",1
+"('ventricular outlow tract', 'DISEASE')",1
+"('thoracic aorta', 'DISEASE')",1
+"('thromboembolic', 'DISEASE')",2
+"('hemorrhagic transformation', 'DISEASE')",1
+"('ischemic disease', 'DISEASE')",1
+"('chronic lacunar infarct', 'DISEASE')",1
+"('distractibility', 'DISEASE')",1
+"('hypo', 'DISEASE')",1
+"('embolic stroke', 'DISEASE')",2
+"('pravastatin', 'CHEMICAL')",2
+"('potassium chloride', 'CHEMICAL')",1
+"('bacitracin zinc', 'CHEMICAL')",1
+"('q2h', 'CHEMICAL')",1
+"('Humalog\n\n10 units premeal', 'CHEMICAL')",1
+"('100-140 - 4 units', 'CHEMICAL')",1
+"('citalopram', 'CHEMICAL')",2
+"('TBD', 'CHEMICAL')",1
+"('Coronary artery disease s/p Coronary artery bypass', 'DISEASE')",1
+"('vasovagal', 'DISEASE')",1
+"('rocephin', 'CHEMICAL')",1
+"('gentamicin', 'CHEMICAL')",5
+"('nafcillin', 'CHEMICAL')",1
+"('VP', 'CHEMICAL')",2
+"('hemangiomas', 'DISEASE')",1
+"('Na K Cl HCO3', 'CHEMICAL')",1
+"('Mg UricAcd', 'CHEMICAL')",1
+"('Bioprosthetic aortic valve prosthesis', 'DISEASE')",1
+"('AVR', 'DISEASE')",1
+"('benzocaine', 'CHEMICAL')",1
+"('bioprosthetic aortic valve prosthesis', 'DISEASE')",1
+"('Trivial mitral regurgitation', 'DISEASE')",1
+"('s/p AVR', 'DISEASE')",1
+"('ventricular drainage', 'DISEASE')",1
+"('oxacillin', 'CHEMICAL')",3
+"('PA systolic hypertension', 'DISEASE')",1
+"('Epi', 'CHEMICAL')",1
+"('Vasopressin', 'CHEMICAL')",1
+"('TEEs', 'DISEASE')",1
+"('Caspofungin', 'CHEMICAL')",1
+"('Lansoprazole', 'CHEMICAL')",1
+"('Oxacillin Sodium', 'CHEMICAL')",1
+"('Lispro', 'CHEMICAL')",1
+"('MSSA endocarditis', 'DISEASE')",1
+"('Aortic valve stenosis', 'DISEASE')",1
+"('cardiac disease', 'DISEASE')",2
+"('duodenal ulcer', 'DISEASE')",3
+"('abdominal aortic aneursym', 'DISEASE')",1
+"(""simvastatin 10'"", 'CHEMICAL')",1
+"('ferrous', 'CHEMICAL')",1
+"('deafness', 'DISEASE')",2
+"('Aleve', 'CHEMICAL')",1
+"('chronic diastolic heart failure', 'DISEASE')",1
+"('Menorrhagia', 'DISEASE')",1
+"('pleural\neffusions or pneumothorax', 'DISEASE')",1
+"('angioedema', 'DISEASE')",1
+"('antihistamines', 'CHEMICAL')",1
+"('oral contraceptives', 'CHEMICAL')",1
+"('chronic uterine bleeding', 'DISEASE')",1
+"('Albuterol 2 puffs', 'CHEMICAL')",1
+"('Penicillin', 'CHEMICAL')",2
+"('throat', 'DISEASE')",4
+"('anaphylaxis', 'DISEASE')",2
+"('Allergy', 'CHEMICAL')",2
+"('codeine', 'CHEMICAL')",1
+"('Flovent HFA', 'CHEMICAL')",1
+"('Angioedema', 'DISEASE')",1
+"('ACE inhibitors', 'CHEMICAL')",1
+"('angiotensin', 'CHEMICAL')",1
+"('swelling of the lips', 'DISEASE')",1
+"('9:00AM', 'CHEMICAL')",1
+"('Fatigue', 'DISEASE')",1
+"('nexium', 'CHEMICAL')",1
+"('octreotide', 'CHEMICAL')",6
+"('Variceal bleed', 'DISEASE')",1
+"('DM c/b neuropathy', 'CHEMICAL')",1
+"('INR(PT)-1.5', 'CHEMICAL')",1
+"('abnormal vascularity', 'DISEASE')",1
+"('HCC', 'DISEASE')",2
+"('AVMs', 'DISEASE')",1
+"('alcoholic cirrhosis', 'DISEASE')",1
+"('nadolol', 'CHEMICAL')",5
+"('folic', 'CHEMICAL')",1
+"('nutritional deficits', 'DISEASE')",1
+"('Nexium', 'CHEMICAL')",1
+"('upper GI bleed', 'DISEASE')",1
+"('acetominophen', 'CHEMICAL')",5
+"('insulin', 'CHEMICAL')",2
+"('3 bowel movements', 'CHEMICAL')",2
+"('Nadolol', 'CHEMICAL')",3
+"('AVM', 'DISEASE')",5
+"('cirrhosis of the liver', 'DISEASE')",1
+"('hepatocellular carcinoma', 'DISEASE')",2
+"('Diabetes mellitus type II', 'DISEASE')",1
+"('diet-controlled', 'DISEASE')",1
+"('liver cancer', 'DISEASE')",1
+"('naproxen', 'CHEMICAL')",2
+"('abdominal infections', 'DISEASE')",1
+"('somnolence', 'DISEASE')",2
+"('watery', 'DISEASE')",2
+"('erosions', 'DISEASE')",2
+"('malabsorption of bile salts', 'DISEASE')",1
+"('thyroxine', 'CHEMICAL')",1
+"('ropinirole', 'CHEMICAL')",1
+"('carbidopa', 'CHEMICAL')",1
+"(""Parkinson's disease"", 'DISEASE')",2
+"('DMII', 'CHEMICAL')",1
+"('SBP=60s', 'DISEASE')",1
+"('nonbloody diarrhea', 'DISEASE')",1
+"('numb', 'DISEASE')",1
+"('multinodular thyroid goiter', 'DISEASE')",1
+"('Dz', 'CHEMICAL')",1
+"('chest wall trauma', 'DISEASE')",1
+"('LBP', 'DISEASE')",1
+"('-- Microcytic anemia', 'DISEASE')",1
+"('difficile colitis', 'DISEASE')",2
+"('VANCOMYCIN------------', 'CHEMICAL')",1
+"('Pylori', 'DISEASE')",3
+"('watery diarrhea', 'DISEASE')",2
+"('colesevelam', 'CHEMICAL')",1
+"('Dyazide', 'CHEMICAL')",1
+"('Amantidine', 'CHEMICAL')",2
+"('disorder', 'DISEASE')",1
+"(""Parkinson's patients secondary to a\ndisinhibtion of movement pathways during sleep. Did not feel it\nnecessary to perfomr EEG or further brain"", 'DISEASE')",1
+"('ampicillin/ciprofloxacin', 'CHEMICAL')",1
+"('strep', 'DISEASE')",1
+"('Ropinirole', 'CHEMICAL')",3
+"('Escitalopram', 'CHEMICAL')",3
+"('Olmesartan', 'CHEMICAL')",1
+"('Amantadine', 'CHEMICAL')",1
+"('Colesevelam', 'CHEMICAL')",1
+"('Guaifenesin', 'CHEMICAL')",5
+"('diabetes mellitus', 'DISEASE')",3
+"('Nausea', 'DISEASE')",1
+"('Vomiting', 'DISEASE')",1
+"('ALT-39', 'CHEMICAL')",1
+"('K.', 'CHEMICAL')",2
+"('both-bone forearm fracture', 'DISEASE')",4
+"('Intramedullary nailing', 'DISEASE')",2
+"('54-year-old', 'DISEASE')",2
+"('bone loss', 'DISEASE')",2
+"('bones forearm fracture', 'DISEASE')",2
+"('acetabular fracture', 'DISEASE')",1
+"('bone fracture', 'DISEASE')",1
+"('delerium tremens', 'DISEASE')",1
+"('muscle flap/split thickness', 'DISEASE')",1
+"('VAC', 'CHEMICAL')",1
+"('Labetalol', 'CHEMICAL')",1
+"('dry', 'DISEASE')",1
+"('chronic obstructive pulmonary\ndisease exacerbations', 'DISEASE')",1
+"('Solu-Medrol', 'CHEMICAL')",2
+"('fluconazole', 'CHEMICAL')",1
+"('right shoulder pain', 'DISEASE')",1
+"('Seizures', 'DISEASE')",1
+"('Colon cancer', 'DISEASE')",1
+"('Salmeterol', 'CHEMICAL')",2
+"('multivitamin', 'CHEMICAL')",2
+"('Colace', 'CHEMICAL')",2
+"('Detrol', 'CHEMICAL')",2
+"('decreased breath', 'DISEASE')",1
+"('urea nitrogen', 'CHEMICAL')",1
+"('chronic obstructive\npulmonary disease', 'DISEASE')",1
+"('chronic\nobstructive pulmonary disease', 'DISEASE')",1
+"('troches', 'CHEMICAL')",1
+"('gastrointestinal prophylaxis', 'DISEASE')",1
+"('Chronic obstructive pulmonary disease', 'DISEASE')",4
+"('exacerbation/tracheobronchitis', 'DISEASE')",1
+"('Vitamin D 400', 'CHEMICAL')",1
+"('Ipratropium', 'CHEMICAL')",1
+"('Sodium chloride', 'CHEMICAL')",1
+"('gangrenous', 'DISEASE')",1
+"('nonhealing', 'DISEASE')",1
+"('hyperglycemia', 'DISEASE')",1
+"('ischemic heart disease', 'DISEASE')",1
+"('chronic obstructive pulmonary disease-inhalers', 'DISEASE')",1
+"('Bell', 'CHEMICAL')",1
+"('Denies ETOH', 'DISEASE')",1
+"('RRR, systolic murmur', 'CHEMICAL')",1
+"('Ct-225', 'DISEASE')",1
+"('Hct-25.4', 'CHEMICAL')",1
+"('NTG', 'CHEMICAL')",2
+"('NTG', 'DISEASE')",1
+"('spirolactone', 'CHEMICAL')",1
+"('digoxin 50mcg', 'CHEMICAL')",1
+"('Niaspan', 'CHEMICAL')",1
+"('aerosols', 'CHEMICAL')",1
+"('amoxicillin', 'CHEMICAL')",1
+"('Fenofibrate', 'CHEMICAL')",1
+"('heart diseases/p', 'DISEASE')",1
+"('hyperlipdemia', 'DISEASE')",1
+"('postoperative blood loss anemia', 'DISEASE')",1
+"('postoperative CHF excerbation', 'DISEASE')",1
+"('s/p mitral', 'DISEASE')",1
+"('hydrocodone', 'CHEMICAL')",1
+"('postoperative acute renal failure', 'DISEASE')",1
+"('status\n\n', 'DISEASE')",1
+"('bioprosthetic AVR', 'DISEASE')",1
+"('s/p valvuloplasty', 'DISEASE')",1
+"('atrial fibrillation/atrial flutter', 'DISEASE')",1
+"('colon adenoCA s/p R colectomy [**3-8**]\n* Chronic indwelling foley with several UTIs', 'DISEASE')",1
+"('Zenkers diverticulum', 'DISEASE')",1
+"('thrombocytosis', 'DISEASE')",1
+"('Anemia iron', 'DISEASE')",1
+"('pulmonary asbestosis', 'DISEASE')",1
+"('jejunal microperforation', 'DISEASE')",1
+"('barium', 'CHEMICAL')",1
+"('manic', 'DISEASE')",1
+"('right inguinal hernia', 'DISEASE')",1
+"('esophageal stenosis', 'DISEASE')",1
+"('septicemia', 'DISEASE')",1
+"('proteus mirabilis', 'DISEASE')",2
+"('pan-sensitive', 'DISEASE')",1
+"('pyuria', 'DISEASE')",2
+"('meropenem/ciprofloxacin', 'CHEMICAL')",1
+"('Hypernatremia', 'DISEASE')",2
+"('hypernatremic', 'DISEASE')",2
+"('Urinary retention', 'DISEASE')",1
+"('proteus urosepsis', 'DISEASE')",1
+"('loose stools', 'DISEASE')",1
+"('fecal incontinence', 'DISEASE')",1
+"('lactose', 'CHEMICAL')",1
+"('donepezil', 'CHEMICAL')",1
+"('pan-sensitive Proteus', 'DISEASE')",1
+"('Orthostasis', 'DISEASE')",1
+"('Hypocalcemia', 'DISEASE')",1
+"('s/p aortic valve', 'DISEASE')",1
+"('Vomiting coffe ground like stuff\n\n', 'DISEASE')",1
+"('ITP', 'DISEASE')",4
+"('tarry', 'DISEASE')",2
+"('GI illness', 'DISEASE')",2
+"('Advil', 'CHEMICAL')",5
+"('Irritable Bowel Syndrome', 'DISEASE')",2
+"('Migraine headaches', 'DISEASE')",2
+"('hepatitis', 'DISEASE')",2
+"('cerebral aneurysm', 'DISEASE')",1
+"('hepatomegaly', 'DISEASE')",1
+"('tarry bowel', 'DISEASE')",1
+"('lightheadedness, shortness of breath', 'DISEASE')",1
+"('GI or musculoskeletal pain', 'DISEASE')",1
+"('esophageal perforation', 'DISEASE')",1
+"('NASH', 'DISEASE')",1
+"('Levsin', 'CHEMICAL')",1
+"('Maxalt', 'CHEMICAL')",1
+"('Rizatriptan', 'CHEMICAL')",1
+"('Hydrocortisone', 'CHEMICAL')",1
+"('hydrocortisone valerate', 'CHEMICAL')",1
+"('Gastrointestinal Bleed', 'DISEASE')",1
+"('metronidazole', 'CHEMICAL')",4
+"('Ferritn-21 TRF-227\n\n', 'DISEASE')",1
+"('left ventricular systolic dysfunction', 'DISEASE')",1
+"('valve stenosis', 'DISEASE')",1
+"('mitral stenosis', 'DISEASE')",2
+"('left ventricular systolic\n', 'DISEASE')",1
+"('Fe deficieny anemia', 'CHEMICAL')",1
+"('memantine', 'CHEMICAL')",2
+"('exelon', 'CHEMICAL')",1
+"('paroxetine', 'CHEMICAL')",2
+"('Fe gluconate', 'CHEMICAL')",1
+"('rivastigmine', 'CHEMICAL')",1
+"('Memantine', 'CHEMICAL')",1
+"('Paroxetine HCl', 'CHEMICAL')",1
+"('Quetiapine', 'CHEMICAL')",1
+"('Rivastigmine', 'CHEMICAL')",1
+"('hypernatremia', 'DISEASE')",2
+"('fever/chills', 'DISEASE')",1
+"('chronic obstructive pulmonary\ndisease', 'DISEASE')",1
+"('left breast cancer', 'DISEASE')",2
+"('vomiting was bilious', 'DISEASE')",1
+"('chronic pulmonary embolism', 'DISEASE')",1
+"('Diastolic dysfunction', 'DISEASE')",1
+"('Esophageal cancer', 'DISEASE')",1
+"('breast cancer', 'DISEASE')",2
+"('Psoriasis', 'DISEASE')",2
+"('Imodium', 'CHEMICAL')",1
+"('Verapamil', 'CHEMICAL')",3
+"('Fragmin', 'CHEMICAL')",1
+"('Clostridium difficile', 'DISEASE')",2
+"('gastroenteritis', 'DISEASE')",1
+"('chronic obstructive pulmonary\ndisease flare as she was quite wheezy', 'DISEASE')",1
+"('oropharyngeal dysphagia', 'DISEASE')",1
+"('thoracic aortic aneurysm', 'DISEASE')",1
+"('aortic atherosclerotic disease', 'DISEASE')",1
+"('Gastrointestinal bleed', 'DISEASE')",1
+"('Gastroenteritis', 'DISEASE')",1
+"('upper GI tract', 'DISEASE')",1
+"('Nonhealing LLE', 'DISEASE')",1
+"('diabetic ulcer', 'DISEASE')",1
+"('DM-2', 'DISEASE')",1
+"('Peripheral neuropathy', 'DISEASE')",1
+"('Nephropathy', 'DISEASE')",1
+"('diabetic nephropathy', 'DISEASE')",1
+"('CHF diastolic dysfunction', 'DISEASE')",1
+"('Chronic venous stasis', 'DISEASE')",1
+"('inferior reversible wall defect', 'DISEASE')",1
+"('NABS', 'DISEASE')",1
+"('AST(SGOT)-28', 'CHEMICAL')",1
+"('TYPE-ART TEMP-40.4 PO2', 'DISEASE')",1
+"('POLYCHROM-OCCASIONAL', 'CHEMICAL')",1
+"('WBC-7.4', 'CHEMICAL')",1
+"('Ct-198', 'CHEMICAL')",1
+"('RDW-16.2', 'DISEASE')",1
+"('HD 1([**4-5**])', 'CHEMICAL')",1
+"('CHF-', 'CHEMICAL')",2
+"('steroid dependence-solumedrol', 'CHEMICAL')",1
+"('collapse/consolidation', 'DISEASE')",1
+"('HD 3', 'CHEMICAL')",1
+"('upper extremity edema', 'DISEASE')",1
+"('Atrophy', 'DISEASE')",1
+"('Erosions', 'DISEASE')",2
+"('Right bundle-branch block', 'DISEASE')",2
+"('ventricular premature beats', 'DISEASE')",1
+"('HD 9', 'CHEMICAL')",1
+"('Epinephrine', 'CHEMICAL')",1
+"('Active GI bleeding', 'DISEASE')",1
+"('gland hyperplasia', 'DISEASE')",1
+"('HD 10 ([**4-14**])', 'CHEMICAL')",1
+"('10units', 'CHEMICAL')",1
+"('bibasilar atelectasis', 'DISEASE')",1
+"('left renal cyst', 'DISEASE')",1
+"('osteopenia', 'DISEASE')",2
+"('docusate', 'CHEMICAL')",2
+"('Sulfonamide', 'CHEMICAL')",1
+"('bacterial vaginosis', 'DISEASE')",1
+"('chlamydia', 'DISEASE')",1
+"('phenergan', 'CHEMICAL')",1
+"('zofran', 'CHEMICAL')",2
+"('RLQ', 'DISEASE')",1
+"('crampy', 'DISEASE')",1
+"('primary complaint', 'DISEASE')",1
+"('loose', 'CHEMICAL')",1
+"('hypoactive BS', 'DISEASE')",1
+"('adnexal tenderness', 'DISEASE')",1
+"('Liver hypodensities', 'DISEASE')",1
+"('right adnexal cystic lesion', 'DISEASE')",1
+"('decreased bowel movements', 'DISEASE')",1
+"('bladder infections', 'DISEASE')",1
+"('Singulair', 'CHEMICAL')",1
+"('Disp:*56 Capsule(s', 'DISEASE')",1
+"('Montelukast', 'CHEMICAL')",3
+"('Clostridium difficile colitis', 'DISEASE')",1
+"('penicillin', 'CHEMICAL')",1
+"('Upper GI bleed', 'DISEASE')",3
+"('w/ EtOH cirrhosis', 'CHEMICAL')",1
+"('esophageal and gastric ulcers', 'DISEASE')",1
+"('vitamin', 'CHEMICAL')",1
+"('vitamin K.', 'CHEMICAL')",1
+"('HTN gastropathy', 'DISEASE')",1
+"('body/fundus', 'DISEASE')",1
+"('polyp', 'DISEASE')",3
+"('Hemochromatosis', 'DISEASE')",1
+"('Peripheral vascular disease', 'DISEASE')",2
+"('angiomas', 'DISEASE')",1
+"('AlkPhos-112', 'CHEMICAL')",1
+"('LD(LDH)-193', 'CHEMICAL')",1
+"('microvascular\n\ndisease', 'DISEASE')",1
+"('w/ EtOH', 'CHEMICAL')",1
+"('toxic/metabolic', 'DISEASE')",1
+"('EtOH w/d', 'CHEMICAL')",1
+"('telangiectasia of R cardia', 'DISEASE')",1
+"('post-variceal bleed', 'DISEASE')",1
+"('hepatorenal syndrome', 'DISEASE')",1
+"('Alcoholism', 'CHEMICAL')",1
+"('-PCP', 'CHEMICAL')",2
+"('Trental', 'CHEMICAL')",2
+"('Sucralfate', 'CHEMICAL')",3
+"('sucralfate', 'CHEMICAL')",2
+"('thiamine HCl', 'CHEMICAL')",1
+"('Upper gastrointestinal bleed', 'DISEASE')",1
+"('Alcoholic cirrhosis', 'DISEASE')",1
+"('vomiting blood', 'DISEASE')",1
+"('-chest pain', 'DISEASE')",1
+"('-increased', 'CHEMICAL')",1
+"('Folic acid', 'CHEMICAL')",1
+"('Thiamine', 'CHEMICAL')",1
+"('WAY', 'CHEMICAL')",1
+"('stoke', 'DISEASE')",1
+"('obesity', 'DISEASE')",1
+"('prostate\ncancer status post resection', 'DISEASE')",1
+"('slurred speech and right hand weakness', 'DISEASE')",1
+"('intermittent dysarthria', 'DISEASE')",1
+"('right hand weakness', 'DISEASE')",1
+"('diplopia', 'DISEASE')",3
+"('gait unsteadiness', 'DISEASE')",1
+"('lacunar stroke', 'DISEASE')",1
+"('occlusion of the right', 'DISEASE')",1
+"('Obesity', 'DISEASE')",2
+"('extraocular movements', 'DISEASE')",2
+"('D    B    T', 'CHEMICAL')",1
+"('DF', 'CHEMICAL')",1
+"('Romberg', 'DISEASE')",1
+"('left middle cerebral arterial', 'DISEASE')",1
+"('MCA', 'CHEMICAL')",2
+"('occlusion of the right ICA', 'DISEASE')",1
+"('ICA', 'CHEMICAL')",1
+"('Aggrenox', 'CHEMICAL')",2
+"('ASA/Plavix', 'CHEMICAL')",1
+"('TG', 'DISEASE')",1
+"('BRBPR', 'CHEMICAL')",1
+"('aggrenox', 'CHEMICAL')",1
+"('multiple AVM', 'DISEASE')",1
+"('renal insufficency', 'DISEASE')",1
+"('left ankle pain', 'DISEASE')",1
+"('Alphagan', 'CHEMICAL')",1
+"('Lumigan', 'CHEMICAL')",1
+"('Vicodin', 'CHEMICAL')",1
+"('Stenosis', 'DISEASE')",1
+"('Gastrointestinal Bleeding', 'DISEASE')",1
+"('strokes', 'DISEASE')",1
+"('palpitations, sweating,', 'DISEASE')",1
+"('Stroke', 'DISEASE')",1
+"('URI', 'DISEASE')",3
+"('diabetes of the young', 'DISEASE')",1
+"(""Gitelman's syndrome"", 'DISEASE')",5
+"('high-potassium', 'CHEMICAL')",1
+"('kidney disease', 'DISEASE')",1
+"('neuropathy', 'DISEASE')",3
+"('cancer, cardiac problems', 'DISEASE')",1
+"('Hct-42.7', 'DISEASE')",1
+"('glargine', 'CHEMICAL')",4
+"('subsquently', 'CHEMICAL')",1
+"('Hematemesis', 'DISEASE')",1
+"('vomitting', 'DISEASE')",1
+"('Neuropathy', 'DISEASE')",2
+"('baclofen', 'CHEMICAL')",6
+"('Renal disease', 'DISEASE')",1
+"('humalog', 'CHEMICAL')",1
+"('N.H.', 'DISEASE')",1
+"('Diabetic ketoacidosis', 'DISEASE')",1
+"('Troponin leak', 'DISEASE')",1
+"('heart muscle', 'DISEASE')",1
+"('DID', 'CHEMICAL')",1
+"('cholesterol', 'CHEMICAL')",3
+"('vomiting blood or abdominal pain', 'DISEASE')",1
+"('Lantus', 'CHEMICAL')",1
+"('Baclofen', 'CHEMICAL')",6
+"('vitamin\nD, ergocalciferol', 'CHEMICAL')",1
+"('caffeine', 'CHEMICAL')",1
+"('achalasia', 'DISEASE')",5
+"('enemas', 'CHEMICAL')",3
+"('pituitary adenoma', 'DISEASE')",2
+"('verterbral compression', 'DISEASE')",1
+"('H/o achalasia', 'DISEASE')",1
+"('peptic stricture', 'DISEASE')",2
+"('EG', 'CHEMICAL')",1
+"('Sinus tachy', 'DISEASE')",1
+"('NG trauma', 'CHEMICAL')",1
+"('QID sucralfate', 'CHEMICAL')",1
+"('[**Hospital1 **] PPI', 'CHEMICAL')",1
+"('hyponatremic', 'DISEASE')",1
+"('s/p GIB', 'DISEASE')",1
+"('Ergocalciferol', 'CHEMICAL')",1
+"('Vitamin D2', 'CHEMICAL')",1
+"('Dolasetron Mesylate', 'CHEMICAL')",1
+"('Pituitary adenoma', 'DISEASE')",1
+"('Achalasia', 'DISEASE')",1
+"('fainting', 'DISEASE')",1
+"('dyspneic', 'DISEASE')",3
+"('anti-coagulate', 'CHEMICAL')",1
+"('moxifloxacin 400', 'CHEMICAL')",1
+"('ASA allergy', 'CHEMICAL')",1
+"('cramping', 'DISEASE')",1
+"('pains', 'DISEASE')",1
+"('hemoptysis', 'DISEASE')",1
+"('Temporal arteritis', 'DISEASE')",3
+"('DVT/PE', 'DISEASE')",1
+"('left anterior hemiblock', 'DISEASE')",1
+"('three-vessel disease', 'DISEASE')",1
+"('left main disease', 'DISEASE')",1
+"('acute heart failure', 'DISEASE')",1
+"('aspirin allergy', 'CHEMICAL')",1
+"('RCA occlusion', 'DISEASE')",1
+"('euvolemia', 'DISEASE')",1
+"('pulmonary embolisms', 'DISEASE')",1
+"('Uncertain', 'DISEASE')",2
+"('enoxaparin', 'CHEMICAL')",3
+"('thrombophilia', 'DISEASE')",1
+"('Microcytic Anemia', 'DISEASE')",1
+"('viral illness', 'DISEASE')",1
+"('adenomas', 'DISEASE')",1
+"('COPD vs. renal cell carcinoma', 'DISEASE')",1
+"('abnormal myeloid maturation', 'DISEASE')",1
+"('lymphoproliferative disorder', 'DISEASE')",1
+"('hypercalcemia', 'DISEASE')",1
+"('diverticuli', 'DISEASE')",1
+"('diaphragmatic flattening', 'DISEASE')",1
+"('tiotropium', 'CHEMICAL')",2
+"('avelox', 'CHEMICAL')",1
+"('albuterol/tiotropium', 'CHEMICAL')",1
+"('Weight loss', 'DISEASE')",1
+"('chronic illness', 'DISEASE')",1
+"('occult neoplasm', 'DISEASE')",1
+"('AAA', 'CHEMICAL')",1
+"('infrarenal abdominal aortic aneurysm', 'DISEASE')",1
+"('mg/hr', 'CHEMICAL')",1
+"('TD', 'DISEASE')",1
+"('atorvastatin', 'CHEMICAL')",1
+"('Peripheral Vascular Disease', 'DISEASE')",1
+"('Abdominal Aortic Aneursym', 'DISEASE')",1
+"('Tiotropium bromide', 'CHEMICAL')",1
+"('Nitroprusside 0.4 sublingual', 'CHEMICAL')",1
+"('carcinoma of the cecum', 'DISEASE')",1
+"('dysplasia', 'DISEASE')",1
+"('Norvasc', 'CHEMICAL')",2
+"('clubbing or edema', 'DISEASE')",1
+"('hypercarbic', 'CHEMICAL')",2
+"('acidotic', 'DISEASE')",1
+"('burping', 'DISEASE')",1
+"('Clostridium', 'DISEASE')",1
+"('Tetanus Diphtheria', 'DISEASE')",1
+"('shortness fof breath', 'DISEASE')",1
+"('Vocal cord squamous dysplasia', 'DISEASE')",1
+"('Obstructive sleep apnea', 'DISEASE')",1
+"('Myocardial infarction', 'DISEASE')",1
+"('C7 neuroma', 'DISEASE')",1
+"('esophageal obstruction', 'DISEASE')",1
+"('PERRL', 'DISEASE')",1
+"('Staphylococci', 'CHEMICAL')",1
+"('penicillins', 'CHEMICAL')",1
+"('carbacephems', 'CHEMICAL')",1
+"('carbapenems', 'CHEMICAL')",1
+"('ARM', 'CHEMICAL')",1
+"('cardiac enlargement', 'DISEASE')",1
+"('O2 Flow-2', 'CHEMICAL')",2
+"('salmeterol', 'CHEMICAL')",1
+"('Doxycycline', 'CHEMICAL')",1
+"('levofolxacin', 'CHEMICAL')",1
+"('lung infection', 'DISEASE')",2
+"('verapamil', 'CHEMICAL')",1
+"('buproprion', 'CHEMICAL')",2
+"('Fexofenadine', 'CHEMICAL')",2
+"('Doxycycline Hyclate', 'CHEMICAL')",1
+"('Diazepam', 'CHEMICAL')",5
+"('w/ cpap', 'CHEMICAL')",1
+"('Methicillin', 'CHEMICAL')",1
+"('Obstructive Sleep Apnea', 'DISEASE')",1
+"('Metabolic alkalosis', 'DISEASE')",1
+"('neurogenic bladder', 'DISEASE')",2
+"('bradycardia/asystole', 'DISEASE')",2
+"('grimacing', 'DISEASE')",1
+"('keppra', 'CHEMICAL')",2
+"('acinetobacter', 'DISEASE')",1
+"('imipenem', 'CHEMICAL')",1
+"('epidermidis', 'DISEASE')",2
+"('clindamycin', 'CHEMICAL')",2
+"('C2/C3 fracture', 'DISEASE')",2
+"('quadriplegia', 'DISEASE')",2
+"('-respiratory failure', 'DISEASE')",1
+"('Lexapro', 'CHEMICAL')",2
+"('decubitus ulcer', 'DISEASE')",1
+"('@baseline', 'CHEMICAL')",1
+"('nodding', 'DISEASE')",3
+"('STENOTROPHOMONAS', 'CHEMICAL')",2
+"('Piperacillin/Tazobactam', 'CHEMICAL')",2
+"('volume loss of the\nleft lung', 'DISEASE')",1
+"('bilious', 'DISEASE')",4
+"('lower lobe atelectasis', 'DISEASE')",1
+"('phlegmon', 'DISEASE')",2
+"('quadraplegic man s/p MVA', 'DISEASE')",1
+"('toxic metabolic encephalopathy', 'DISEASE')",1
+"('jerking movements', 'DISEASE')",1
+"('levetiracetam', 'CHEMICAL')",1
+"('involuntary movements', 'DISEASE')",1
+"('IR', 'CHEMICAL')",1
+"('bilirubin', 'CHEMICAL')",1
+"('gall bladder perforation', 'DISEASE')",1
+"('acute cholecystitis', 'DISEASE')",1
+"('Bilious', 'DISEASE')",1
+"('Stenotrophomonas', 'DISEASE')",1
+"('ileus', 'DISEASE')",1
+"('Keppra', 'CHEMICAL')",1
+"('DIC', 'DISEASE')",1
+"('hemodilution', 'DISEASE')",1
+"('quadriplegic', 'DISEASE')",1
+"('Torsemide', 'CHEMICAL')",6
+"('glimepiride', 'CHEMICAL')",3
+"('arginine-glutamine-calcium', 'CHEMICAL')",4
+"('Dantrolene Sodium', 'CHEMICAL')",4
+"('Escitalopram Oxalate', 'CHEMICAL')",4
+"('ipratropium-albuterol', 'CHEMICAL')",4
+"('Lyrica', 'CHEMICAL')",5
+"('Tizanidine', 'CHEMICAL')",3
+"('Neb Soln 1 NEB', 'CHEMICAL')",4
+"('Neosporin 1 Appl', 'CHEMICAL')",2
+"('Povidone Iodine', 'CHEMICAL')",1
+"('Magnesium Citrate', 'CHEMICAL')",4
+"('spasms', 'DISEASE')",4
+"('Fentanyl', 'CHEMICAL')",2
+"('ALPRAZolam', 'CHEMICAL')",3
+"('tablet(s', 'CHEMICAL')",1
+"('transaminitis', 'DISEASE')",1
+"('Acinetobacter', 'DISEASE')",1
+"('Denies vomiting', 'DISEASE')",1
+"('pneumobilia', 'DISEASE')",3
+"('retroperitoneal hematoma', 'DISEASE')",1
+"('hypodense lesions', 'DISEASE')",1
+"('benign adrenal adenoma', 'DISEASE')",1
+"('fistula', 'DISEASE')",3
+"('left basilar pleural effusion', 'DISEASE')",1
+"('compression deformities', 'DISEASE')",1
+"('quadraplegia', 'DISEASE')",1
+"('intraabdominal abscess', 'DISEASE')",1
+"('Fistula', 'DISEASE')",2
+"('colonic-biliary fistula', 'DISEASE')",1
+"('purulant', 'DISEASE')",1
+"('daptomycin', 'CHEMICAL')",1
+"('abdominal infection', 'DISEASE')",1
+"('O2 saturations', 'CHEMICAL')",1
+"('retroperitoneal bleed', 'DISEASE')",1
+"('Alprazolam', 'CHEMICAL')",1
+"('Oxalate', 'CHEMICAL')",1
+"('buspirone', 'CHEMICAL')",1
+"('diazepam', 'CHEMICAL')",1
+"('dantrolene', 'CHEMICAL')",1
+"('citrate', 'CHEMICAL')",1
+"('chronically distended small', 'DISEASE')",1
+"('pseudo-obstruction', 'DISEASE')",1
+"('Polyethylene Glycol 17 g PO TID', 'CHEMICAL')",1
+"('Neomycin-Polymyxin-Bacitracin', 'CHEMICAL')",1
+"('Ciprofloxacin HCl', 'CHEMICAL')",1
+"('Loperamide', 'CHEMICAL')",1
+"('Cyclobenzaprine', 'CHEMICAL')",1
+"('rest angina', 'DISEASE')",1
+"('aortic insufficiency', 'DISEASE')",1
+"('q.a.m', 'CHEMICAL')",3
+"('3-vessel disease', 'DISEASE')",1
+"('creatine', 'CHEMICAL')",1
+"('three-vessel coronary artery disease', 'DISEASE')",1
+"('O2 saturation', 'CHEMICAL')",2
+"('Neo-Synephrine', 'CHEMICAL')",1
+"('serosanguinous', 'DISEASE')",1
+"('Mefoxin', 'CHEMICAL')",1
+"('LGIB', 'DISEASE')",2
+"('Danlos syndrome', 'DISEASE')",1
+"('Ehlers-Danlos syndrome', 'DISEASE')",1
+"('bowel bleeds', 'DISEASE')",1
+"('artery bleed', 'DISEASE')",1
+"('RP bleed', 'DISEASE')",1
+"('Celiac artery aneurysm', 'DISEASE')",1
+"('carotic artery aneurysm', 'DISEASE')",1
+"('lower GI bleed', 'DISEASE')",1
+"('vomiting, chest pain', 'DISEASE')",1
+"('throbbing', 'DISEASE')",1
+"('calcium gluconate', 'CHEMICAL')",1
+"('SVG LAD', 'DISEASE')",1
+"('CKD-', 'DISEASE')",1
+"('LGI bleeding', 'CHEMICAL')",1
+"('premature coronary artery disease', 'DISEASE')",1
+"('sudden death', 'DISEASE')",1
+"('ecchymosis', 'DISEASE')",1
+"('chronic venous\nstasis\nNEURO: A&Ox3.', 'DISEASE')",1
+"('Ct-147', 'DISEASE')",1
+"('nonbleeding', 'DISEASE')",1
+"('dudoneal ulcer', 'DISEASE')",1
+"('insulin/bicarb/calcium gluconate', 'CHEMICAL')",1
+"('Bumex', 'CHEMICAL')",1
+"('toprol', 'CHEMICAL')",2
+"('Zestril', 'CHEMICAL')",2
+"(""Chronic Renal Failure - etiology of pt's ARF"", 'DISEASE')",1
+"('200mcg', 'CHEMICAL')",1
+"('Zoloft', 'CHEMICAL')",1
+"('calcitriol', 'CHEMICAL')",1
+"('insulin humulin N', 'CHEMICAL')",1
+"('insulin humulin', 'CHEMICAL')",1
+"('zoloft', 'CHEMICAL')",1
+"('Humalog', 'CHEMICAL')",1
+"('vomitting of blood, or bloody', 'DISEASE')",1
+"('Date/Time:[**2163-2-3**] 2:30', 'CHEMICAL')",1
+"('Syncope', 'DISEASE')",2
+"(""parkinson's disease"", 'DISEASE')",2
+"('orthostatic hypotension', 'DISEASE')",3
+"('droxidopa', 'CHEMICAL')",5
+"('frank lightheadedness or vertigo', 'DISEASE')",1
+"(""Parkinson's disease, autonomic dysfunction"", 'DISEASE')",2
+"('polyneuropathy', 'DISEASE')",1
+"('sleep movements', 'DISEASE')",1
+"('restless legs syndrome', 'DISEASE')",1
+"('CBD stone', 'CHEMICAL')",1
+"('RUSB', 'DISEASE')",1
+"('VitB12-1721', 'CHEMICAL')",1
+"('right bundle-branch block', 'DISEASE')",1
+"('AV block', 'DISEASE')",2
+"('Lat', 'CHEMICAL')",2
+"('midodrine', 'CHEMICAL')",5
+"('heart block', 'DISEASE')",1
+"('Euvolemic', 'DISEASE')",1
+"('Parkinsons', 'DISEASE')",1
+"('stalevo', 'CHEMICAL')",1
+"('pregabalin', 'CHEMICAL')",4
+"('Midodrine', 'CHEMICAL')",1
+"('mirtazapine', 'CHEMICAL')",2
+"('folic acid 400', 'CHEMICAL')",1
+"('Stalevo', 'CHEMICAL')",2
+"('6AM', 'CHEMICAL')",2
+"('polyethylene glycol 3350', 'CHEMICAL')",2
+"('Critical aortic stenosis', 'DISEASE')",1
+"('Autonomic dysfunction', 'DISEASE')",1
+"('Orthostatic hypotension', 'DISEASE')",1
+"('Mitral regurgitation', 'DISEASE')",1
+"('loss of consciousness', 'DISEASE')",1
+"('SoluMedrol', 'CHEMICAL')",1
+"('congestion, sore throat', 'DISEASE')",1
+"('hematuria', 'DISEASE')",2
+"('Chronic musculoskeletal pain', 'DISEASE')",1
+"('Phos-3.2', 'DISEASE')",1
+"('TRF-386', 'CHEMICAL')",1
+"('Temp-36.8', 'CHEMICAL')",1
+"('O2 Sat-75', 'CHEMICAL')",1
+"('COPD/Hypercapneic', 'CHEMICAL')",1
+"('respiratory\nfailure', 'DISEASE')",1
+"('respiratory infection', 'DISEASE')",1
+"('O2\nsats', 'CHEMICAL')",1
+"('salmeterol-fluticasone', 'CHEMICAL')",1
+"('breathing or complaints', 'DISEASE')",1
+"('neurological deficit', 'DISEASE')",1
+"('Hypercarbia', 'DISEASE')",1
+"('hypercarbia', 'DISEASE')",3
+"('hypoxia/hypercapnia', 'DISEASE')",1
+"('urinary urgency/frequency', 'DISEASE')",1
+"('DCd', 'CHEMICAL')",1
+"('Chronic MSK Pain', 'DISEASE')",1
+"('CAP', 'CHEMICAL')",1
+"('fluticasone-salmeterol', 'CHEMICAL')",1
+"('simethicone', 'CHEMICAL')",2
+"('hitchcock', 'DISEASE')",1
+"('traumas', 'DISEASE')",1
+"('pulm contusions', 'DISEASE')",1
+"('DHMC', 'CHEMICAL')",3
+"('malnutrition', 'DISEASE')",1
+"('hypercarbic resp failure', 'CHEMICAL')",2
+"('trached', 'CHEMICAL')",2
+"('Valvuloiplasty/', 'CHEMICAL')",1
+"('PM', 'CHEMICAL')",1
+"('pulm htn', 'DISEASE')",1
+"('venti-mask', 'CHEMICAL')",1
+"('pulm edema', 'DISEASE')",1
+"('chronic b/l pleural effusions', 'DISEASE')",1
+"('O2 sat 100 on 40%', 'CHEMICAL')",1
+"('UE pitting edema', 'DISEASE')",1
+"('pitting', 'DISEASE')",1
+"('intracranial abnormality', 'DISEASE')",1
+"('acute-on-chronic right maxillary and left\nsphenoid sinusitis', 'DISEASE')",1
+"('right mastoiditis', 'DISEASE')",1
+"('chronic lacunar infarction', 'DISEASE')",1
+"('arterial occlusion', 'DISEASE')",1
+"('encephalopathic', 'DISEASE')",1
+"('status epilepticus', 'DISEASE')",1
+"('impaired mental status', 'DISEASE')",1
+"('traumatic SC injury', 'DISEASE')",1
+"('beta-blocker', 'CHEMICAL')",1
+"('lansoprazole', 'CHEMICAL')",1
+"('KCL 40 meq', 'CHEMICAL')",1
+"('zinc', 'CHEMICAL')",1

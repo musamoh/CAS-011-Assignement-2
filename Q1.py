@@ -2,6 +2,8 @@ import pandas as pd
 from transformers import AutoTokenizer, AutoModelForTokenClassification, pipeline
 from collections import Counter
 import spacy
+import torch
+import csv
 
 """
 Question 1
@@ -129,57 +131,79 @@ Extract the ‘diseases’, and ‘drugs’ entities in the ‘.txt file’ sepa
 """
 
 
-def extract_entities_spacy(text, nlp):
-    """Extract entities using spaCy."""
-    # Split text into chunks of 1,000,000 characters each
-    chunks = [text[i : i + 1000000] for i in range(0, len(text), 1000000)]
-
-    entities = []
-    for chunk in chunks:
-        doc = nlp(chunk)
-        entities.extend([(ent.text, ent.label_) for ent in doc.ents])
-
-    return entities
-
-
 def task_4():
+    # Due to the limitation of SpaCy, we will process only the first 1M characters
     text_file = "combined_text.txt"
+
+    # Load spaCy models
+    nlp_sci, nlp_bc5cdr = download_spacy_models()
+    spacy_entities = Counter()
+
     with open(text_file, "r") as file:
         text = file.read()
+        doc = nlp_sci(
+            text[:1000000]
+        )  # process only first 1M characters due to SpaCy's limitation
+        for ent in doc.ents:
+            spacy_entities.update([(ent.text, ent.label_)])
+    # print(spacy_entities)
 
-    nlp_sci, nlp_bc5cdr = download_spacy_models()
+    nlp_bc5cdr_entities = Counter()
 
-    # Extract entities using spaCy models
-    entities_sci = extract_entities_spacy(text, nlp_sci)
-    entities_bc5cdr = extract_entities_spacy(text, nlp_bc5cdr)
+    with open(text_file, "r") as file:
+        text = file.read()
+        doc = nlp_bc5cdr(text[:1000000])
+        for ent in doc.ents:
+            nlp_bc5cdr_entities.update([(ent.text, ent.label_)])
+    # print(nlp_bc5cdr_entities)
 
-    # Extract entities using BioBERT model
-    entities_biobert = extract_entities_biobert(text)
-
-    # Compare the differences between the two models
-    common_entities_sci = set([ent[0] for ent in entities_sci])
-    common_entities_bc5cdr = set([ent[0] for ent in entities_bc5cdr])
-    common_entities_biobert = set([ent["word"] for ent in entities_biobert])
-
-    common_entities = common_entities_sci.intersection(
-        common_entities_bc5cdr, common_entities_biobert
+    biobert_entities = Counter()
+    tokenizer = AutoTokenizer.from_pretrained("dmis-lab/biobert-base-cased-v1.1")
+    model = AutoModelForTokenClassification.from_pretrained(
+        "dmis-lab/biobert-base-cased-v1.1"
     )
+    labels = ["O", "B-DRUG", "I-DRUG", "B-DISEASE", "I-DISEASE"]
+    with open(text_file, "r") as file:
+        text = file.read(1000000)
+        inputs = tokenizer(
+            text, return_tensors="pt", max_length=512, truncation=True, padding=True
+        )
+        outputs = model(**inputs)
+        predictions = torch.argmax(outputs.logits, dim=-1)
+        for token, prediction in zip(inputs["input_ids"][0], predictions[0]):
+            if labels[prediction] in ["B-DRUG", "I-DRUG", "B-DISEASE", "I-DISEASE"]:
+                biobert_entities.update([tokenizer.decode([token])])
 
-    print(f"Total entities detected by spaCy (en_core_sci_sm): {len(entities_sci)}")
+    print(biobert_entities)
+
+    # save to csv
+    with open("task_4_spacy_entities.csv", "w") as file:
+        writer = csv.writer(file)
+        writer.writerow(["Entity", "Label", "Count"])
+        for entity, count in spacy_entities.items():
+            writer.writerow([entity, count])
+
+    with open("task_4_biobert_entities.csv", "w") as file:
+        writer = csv.writer(file)
+        writer.writerow(["Entity", "Count"])
+        for entity, count in biobert_entities.items():
+            writer.writerow([entity, count])
+
+    with open("task_4_nlp_bc5cdr_entities.csv", "w") as file:
+        writer = csv.writer(file)
+        writer.writerow(["Entity", "Label", "Count"])
+        for entity, count in nlp_bc5cdr_entities.items():
+            writer.writerow([entity, count])
+
+    # Compare the results
+    print(f"Total entities detected by SpaCy:\n {len(spacy_entities)} \n\n")
+    print(f"Total entities detected by BioBERT:\n {len(biobert_entities)}\n\n")
+    print(f"Common entities:\n {spacy_entities & biobert_entities}\n\n")
+    print(f"Entities only detected by SpaCy:\n {spacy_entities - biobert_entities}\n\n")
     print(
-        f"Total entities detected by spaCy (en_ner_bc5cdr_md): {len(entities_bc5cdr)}"
+        f"Entities only detected by BioBERT:\n, {biobert_entities - spacy_entities}\n\n"
     )
-    print(f"Total entities detected by BioBERT: {len(entities_biobert)}")
-    print(f"Common entities detected by all models: {len(common_entities)}")
-
-    print("Entities detected by spaCy (en_core_sci_sm):")
-    print(entities_sci)
-
-    print("Entities detected by spaCy (en_ner_bc5cdr_md):")
-    print(entities_bc5cdr)
-
-    print("Entities detected by BioBERT:")
-    print(entities_biobert)
+    print("Task 4 completed")
 
 
 if __name__ == "__main__":
