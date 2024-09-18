@@ -56,3 +56,14 @@ pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/e
 ```
 pre-commit install
 ```
+
+## Run The Codes:
+
+The are arranged as Q1 that denotes question 1, Q2 for question 2 and Q3 for question 3
+
+run
+
+```
+python Q1.py
+
+```
